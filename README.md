@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
 ## Math
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
