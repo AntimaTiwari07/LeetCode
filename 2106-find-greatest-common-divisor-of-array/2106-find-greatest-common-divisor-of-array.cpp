@@ -18,6 +18,6 @@ public:
             }
 
         }
-        return max(a,b);
+        return 1;
     }
 };
