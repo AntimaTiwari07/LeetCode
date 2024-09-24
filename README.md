@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/AntimaTiwari07/LeetCode/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0260-single-number-iii) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AntimaTiwari07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
