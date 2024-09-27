@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/AntimaTiwari07/LeetCode/tree/master/0278-first-bad-version) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Number Theory
 |  |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AntimaTiwari07/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
