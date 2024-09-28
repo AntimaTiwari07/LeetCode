@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0260-single-number-iii) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AntimaTiwari07/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/AntimaTiwari07/LeetCode/tree/master/0278-first-bad-version) |
+| [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Number Theory
 |  |
