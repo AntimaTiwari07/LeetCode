@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/AntimaTiwari07/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AntimaTiwari07/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/AntimaTiwari07/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/AntimaTiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/AntimaTiwari07/LeetCode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/AntimaTiwari07/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AntimaTiwari07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AntimaTiwari07/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/AntimaTiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/AntimaTiwari07/LeetCode/tree/master/0326-power-of-three) |
 ## Two Pointers
