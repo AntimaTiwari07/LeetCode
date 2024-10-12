@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AntimaTiwari07/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AntimaTiwari07/LeetCode/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/AntimaTiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/AntimaTiwari07/LeetCode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/AntimaTiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/AntimaTiwari07/LeetCode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
