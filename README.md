@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AntimaTiwari07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AntimaTiwari07/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/AntimaTiwari07/LeetCode/tree/master/0066-plus-one) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AntimaTiwari07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AntimaTiwari07/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AntimaTiwari07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AntimaTiwari07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AntimaTiwari07/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -164,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AntimaTiwari07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
