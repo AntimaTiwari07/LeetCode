@@ -2,15 +2,15 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
          sort(nums.begin(),nums.end());
-  int count[100000] = {0};
+  bool count[100000] = {false};
         for(int i = 0;i<nums.size();i++){
             if(nums[i]>0 && nums[i]<100000){
-            count[nums[i]]++;
+           count[nums[i]] = true;
             }
             else continue;
         }
         for(int i = 1;i<100000;i++){
-            if(count[i]==0){
+            if(count[i]==false){
                 return i;
             }
         }
