@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/AntimaTiwari07/LeetCode/tree/master/0645-set-mismatch) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/AntimaTiwari07/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
