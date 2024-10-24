@@ -13,9 +13,6 @@ public:
            }
            max_num.push_back(maxn);
         }
-        for(int i  = 0;i<max_num.size();i++){
-            cout<<max_num[i]<<" ";
-        }
         for(int i = 0;i<max_num.size();i++){
             for(int j = i+1;j<max_num.size();j++){
                 if(max_num[i]==max_num[j]){
@@ -23,7 +20,6 @@ public:
                 }
             }
         }
-        cout<<ans;
         return ans;
     }
 };
