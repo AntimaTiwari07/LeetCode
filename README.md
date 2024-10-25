@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/AntimaTiwari07/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AntimaTiwari07/LeetCode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1646-kth-missing-positive-number) |
