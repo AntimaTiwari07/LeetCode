@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1646-kth-missing-positive-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1646-kth-missing-positive-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AntimaTiwari07/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Number Theory
