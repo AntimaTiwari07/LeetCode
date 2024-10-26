@@ -8,6 +8,7 @@ public:
         for(int j = 0;j<arr2.size();j++){
             if(abs(arr1[i]-arr2[j])<=d){
                 check = false;
+                break;
             }
         }
         if(check==true){
