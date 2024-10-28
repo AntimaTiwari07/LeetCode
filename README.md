@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AntimaTiwari07/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AntimaTiwari07/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/AntimaTiwari07/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
