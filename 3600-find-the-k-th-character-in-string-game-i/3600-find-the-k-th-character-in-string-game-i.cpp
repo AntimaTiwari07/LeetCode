@@ -3,7 +3,6 @@ public:
  void game(string &obj,int k){
     //base case
     if(obj.size()>=k){
-        cout<<obj<<endl;
         return ;
     }
     int i = 0;
