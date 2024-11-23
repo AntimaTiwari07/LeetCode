@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1940-maximum-xor-for-each-query](https://github.com/AntimaTiwari07/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1972-rotating-the-box) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AntimaTiwari07/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1972-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1972-rotating-the-box) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1972-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AntimaTiwari07/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
