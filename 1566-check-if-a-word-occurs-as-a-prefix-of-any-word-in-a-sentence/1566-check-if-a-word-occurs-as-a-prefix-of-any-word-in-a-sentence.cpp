@@ -1,6 +1,7 @@
 class Solution {
 public:
     int isPrefixOfWord(string sentence, string searchWord) {
+        /*
         int countword = 1;
         int temp = 0;
         int j = -1;
@@ -17,6 +18,24 @@ public:
            if(sentence[j] == ' '){
                 countword++;
              }
+        }
+        return -1;
+        */
+        int countword = 1;
+        int j = 0;
+       while(j<sentence.size()){
+        string newstr = "";
+           while(sentence[j]!=' ' && j<sentence.size()){
+             newstr+=sentence[j];
+             j++;
+           }
+           if(newstr.substr(0,searchWord.size())==searchWord){
+            return countword;
+           }
+           if(sentence[j] == ' '){
+                countword++;
+             }
+             j = j+1;
         }
         return -1;
     }
