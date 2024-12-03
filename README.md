@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AntimaTiwari07/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/AntimaTiwari07/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AntimaTiwari07/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1972-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
