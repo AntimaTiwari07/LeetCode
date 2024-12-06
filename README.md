@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AntimaTiwari07/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2386-min-max-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/2386-min-max-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AntimaTiwari07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2386-min-max-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/2386-min-max-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AntimaTiwari07/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
