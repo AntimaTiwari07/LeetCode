@@ -13,13 +13,11 @@ public:
      while(low<=high){
         mid = low+(high-low)/2;
         long long piles = 0;
-       
         for(int i = 0;i<candies.size();i++){
             piles+=candies[i]/mid;
         }
         if(piles>=k){
          ans = mid;
-          cout<<ans<<endl;
          low = mid+1;
         }
         else{
