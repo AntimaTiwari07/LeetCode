@@ -11,7 +11,6 @@ public:
            }
         }
       }
-      cout<<count<<endl;
     if(count==ransomNote.size()) return true;
     return false;  
     }
