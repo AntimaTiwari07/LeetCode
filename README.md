@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1256-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1904-second-largest-digit-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1904-second-largest-digit-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AntimaTiwari07/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AntimaTiwari07/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
