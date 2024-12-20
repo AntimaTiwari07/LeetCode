@@ -11,9 +11,6 @@ public:
       for(auto it = digit.begin();it!=digit.end();it++){
         v.push_back(*it);
       }
-      for(int i = 0;i<v.size();i++){
-        cout<<v[i]<<" ";
-      }
       if(v.empty())return -1;
       if(v.size()==1) return -1;
 
