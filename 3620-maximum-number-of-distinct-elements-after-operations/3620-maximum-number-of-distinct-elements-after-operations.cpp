@@ -11,7 +11,7 @@ public:
          bool valid = true;
          int st = 0;
          int end = i-1;
-         while(st<end){
+         while(st<=end){
             int mid = st+(end-st)/2;
             if(nums[mid]==j){
                 valid = false;
