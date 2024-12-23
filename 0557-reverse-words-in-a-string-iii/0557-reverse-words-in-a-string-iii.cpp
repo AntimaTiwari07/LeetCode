@@ -15,13 +15,16 @@ public:
                 for(int idx = st;idx<end;idx++){
                  str+=s[idx];
                 }
-                cout<<str<<endl;
-                v.push_back(str);
-                st = end+1;
+                for(int j = 0;j<str.size()/2;j++){
+            swap(str[j],str[str.size()-1-j]);
+           }
+        if(end==s.size()){newstr = newstr+str;}
+           else newstr = newstr+str+" ";
+           st = end+1;
+        }    
+        end++;    
             }
-            end++;
-        }
-        
+        /*
         for(int i = 0;i<v.size();i++){
             string st = v[i];
            for(int j = 0;j<st.size()/2;j++){
@@ -31,6 +34,7 @@ public:
            else newstr = newstr+st+" ";
         
         }
+        */
         return newstr;
     }
 };
