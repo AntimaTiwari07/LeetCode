@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AntimaTiwari07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/AntimaTiwari07/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0275-h-index-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AntimaTiwari07/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/0367-valid-perfect-square) |
