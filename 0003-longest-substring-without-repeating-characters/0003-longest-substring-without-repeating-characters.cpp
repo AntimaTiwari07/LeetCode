@@ -14,14 +14,12 @@ public:
         count++;
         mp[s[j]]=false;
         length = max(length,count);
-        cout<<count<<endl;
         j++;
        }
        else{
             mp[s[i]]=true;
             i++;
             count--;
-            cout<<"c"<<count<<endl;
        }
       }  
       return length;
