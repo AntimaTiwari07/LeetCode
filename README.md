@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AntimaTiwari07/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AntimaTiwari07/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/AntimaTiwari07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2427-first-letter-to-appear-twice](https://github.com/AntimaTiwari07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
