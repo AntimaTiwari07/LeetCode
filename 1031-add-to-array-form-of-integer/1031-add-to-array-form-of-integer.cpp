@@ -5,7 +5,6 @@ public:
     for(int i = 0;i<num.size();i++){
        number+=(char)num[i]+48;
     }
-    cout<<number<<endl;
     string newk = to_string(k);
      int n= number.size();
        int m = newk.size();
@@ -29,7 +28,6 @@ public:
         }
         new_k+=newk;
        }
-       cout<<new_num<<" "<<new_k<<endl;
     string sum ="";
     int carry = 0;
     for(int i = new_num.size()-1;i>=0;i--){
@@ -46,7 +44,6 @@ public:
     }
     reverse(sum.begin(),sum.end());
     if(carry>0)sum=to_string(carry) +sum;
-    cout<<sum<<endl;
     vector<int>v;
     for(int i = 0;i<sum.size();i++){
         v.push_back(sum[i]-48);
