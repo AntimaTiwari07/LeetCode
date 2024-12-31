@@ -23,7 +23,6 @@ public:
         }
         newb+=b;
        }
-       cout<<newa<<" "<<newb<<endl;
        char carry = '0';
        string ans="";
        for(int i = newa.size()-1;i>=0;i--){
