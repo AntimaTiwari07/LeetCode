@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AntimaTiwari07/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1635-number-of-good-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AntimaTiwari07/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/AntimaTiwari07/LeetCode/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2427-first-letter-to-appear-twice](https://github.com/AntimaTiwari07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
