@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AntimaTiwari07/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0878-shifting-letters](https://github.com/AntimaTiwari07/LeetCode/tree/master/0878-shifting-letters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/AntimaTiwari07/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
 ## Depth-First Search
