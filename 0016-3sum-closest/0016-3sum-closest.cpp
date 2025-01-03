@@ -5,12 +5,21 @@ public:
       sort(nums.begin(),nums.end());
       int ans = 0;
       for(int i = 0;i<nums.size()-2;i++){
-       for(int j = i+1;j<nums.size()-1;j++){
-        for(int k = j+1;k<nums.size();k++){
-           if(abs(nums[i]+nums[j]+nums[k]-target) <mini){
-                mini  = abs(nums[i]+nums[j]+nums[k]-target);
+       int j = i+1;
+       int k = nums.size()-1;
+       while(j<k){
+         if(abs(nums[i]+nums[j]+nums[k]-target)<mini){
+                mini = abs(nums[i]+nums[j]+nums[k]-target);
                 ans = nums[i]+nums[j]+nums[k];
             }
+        if(nums[i]+nums[j]+nums[k]==target){
+            return nums[i]+nums[j]+nums[k];
+        }
+        else if(nums[i]+nums[j]+nums[k]<target){
+            j++;
+        }
+        else{
+            k--;
         }
        }
       }
