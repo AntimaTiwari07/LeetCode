@@ -35,9 +35,6 @@ public:
         for(int i = (nums.size()/2)-1;i>=0;i--){
             heapify(nums,i,nums.size());
         }
-        for(int i = 0;i<nums.size();i++){
-            cout<<nums[i]<<" ";
-        }
         //heap sort
         int size = nums.size();
         int ans;
