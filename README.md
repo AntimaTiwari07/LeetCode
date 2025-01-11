@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AntimaTiwari07/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1449-print-words-vertically](https://github.com/AntimaTiwari07/LeetCode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AntimaTiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/AntimaTiwari07/LeetCode/tree/master/0415-add-strings) |
+| [1449-print-words-vertically](https://github.com/AntimaTiwari07/LeetCode/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/AntimaTiwari07/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1449-print-words-vertically](https://github.com/AntimaTiwari07/LeetCode/tree/master/1449-print-words-vertically) |
 | [1502-construct-k-palindrome-strings](https://github.com/AntimaTiwari07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
