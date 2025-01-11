@@ -1,16 +1,16 @@
 class Solution {
 public:
     bool canConstruct(string s, int k){
-        unordered_map<char,int>mp;
+        int count[26]={0};
         for(int i =0;i<s.size();i++){
-            mp[s[i]]++;
+            count[s[i]-97]++;
         }
-        int count = 0;
-        for(auto i:mp){
-            if(i.second%2!=0)count++;
+        int cnt = 0;
+        for(int i = 0;i<26;i++){
+            if(count[i]%2!=0)cnt++;
         }
         if(s.size()<k)return false;
-    if(count>k)return false;
+    if(cnt>k)return false;
     return true;
     }
 };
