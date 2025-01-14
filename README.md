@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/AntimaTiwari07/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AntimaTiwari07/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AntimaTiwari07/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2902-max-pair-sum-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2902-max-pair-sum-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/AntimaTiwari07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AntimaTiwari07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
