@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AntimaTiwari07/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AntimaTiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/AntimaTiwari07/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AntimaTiwari07/LeetCode/tree/master/0342-power-of-four) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AntimaTiwari07/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AntimaTiwari07/LeetCode/tree/master/0383-ransom-note) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntimaTiwari07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1013-fibonacci-number) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
