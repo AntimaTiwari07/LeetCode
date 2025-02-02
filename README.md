@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AntimaTiwari07/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
 | [1449-print-words-vertically](https://github.com/AntimaTiwari07/LeetCode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
 ## Trie
 |  |
 | ------- |
@@ -664,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
 <!---LeetCode Topics End-->
