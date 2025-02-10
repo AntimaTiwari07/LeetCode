@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AntimaTiwari07/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AntimaTiwari07/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AntimaTiwari07/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AntimaTiwari07/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -633,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
