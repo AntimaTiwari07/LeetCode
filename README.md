@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntimaTiwari07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AntimaTiwari07/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/AntimaTiwari07/LeetCode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AntimaTiwari07/LeetCode/tree/master/0169-majority-element) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AntimaTiwari07/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/AntimaTiwari07/LeetCode/tree/master/0135-candy) |
 | [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/AntimaTiwari07/LeetCode/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0778-reorganize-string) |
