@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/2386-min-max-game) |
 | [2465-shifting-letters-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AntimaTiwari07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AntimaTiwari07/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2427-first-letter-to-appear-twice](https://github.com/AntimaTiwari07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/AntimaTiwari07/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/AntimaTiwari07/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AntimaTiwari07/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
