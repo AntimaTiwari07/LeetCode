@@ -14,9 +14,6 @@ public:
                 p.push_back({sum,nums[i]});
             }
             sort(p.begin(),p.end());
-            for(int i = 0;i<p.size();i++){
-                cout<<p[i].first<<" "<<p[i].second<<endl;
-            }
             int ans = 0;
             int k = 0;
             bool valid = false;
