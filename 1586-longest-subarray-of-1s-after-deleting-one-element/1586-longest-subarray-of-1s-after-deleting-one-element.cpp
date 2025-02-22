@@ -17,13 +17,11 @@ public:
             int maxi = 0;
             int idx = -1;
        for(int i = 0;i<v.size()-1;i++){
-                cout<<v[i][0]<<" "<<v[i][1]<<endl;
                 if(v[i][0]+v[i+1][0]>=maxi){
                     maxi = v[i][0]+v[i+1][0];
                     idx = v[i][1];
                 }
             }
-              cout<<v[v.size()-1][0]<<" "<<v[v.size()-1][1]<<endl;
               nums.erase(nums.begin()+idx);
         }
         else if(v.size()==1){
@@ -37,7 +35,6 @@ public:
                 cnt+=1;
             }
             else{
-                cout<<"cnt = "<<cnt<<endl;
                 maxi = max(maxi,cnt);
                 cnt = 0;
             }
