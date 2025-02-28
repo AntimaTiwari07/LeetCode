@@ -12,7 +12,6 @@ public:
             }
             else{
                  op+=1;
-                 cout<<"op = "<<op<<endl;
                 if(nums.size()>=3)
                 nums.erase(nums.begin(),nums.begin()+3);
                 else{
@@ -24,8 +23,6 @@ public:
         }
         if(valid)return op;
         i--;
-        for(int i = 0;i<nums.size();i++)cout<<nums[i]<<" ";
-        cout<<endl;
         for(int i = 0;i<101;i++){
             v[i]=false;
         }
