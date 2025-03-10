@@ -23,19 +23,27 @@ public:
        // person     chair
        int i =0;
        int j =0;
-       for (int time = 0; time <= arrivalTime.back()[0]; time++) {
+       
+
+        priority_queue<int,vector<int>,greater<int>>time;
+        for(int i = 0;i<times.size();i++){
+            time.push(times[i][0]);
+             time.push(times[i][1]);
+        }
+              while(!time.empty()){
             // Handle departures before arrivals at the same time
-            while (j < departureTime.size() && departureTime[j][0] == time) {
+            while (j < departureTime.size() && departureTime[j][0] == time.top()) {
                 chair.push(mp[departureTime[j][1]]);
                 j++;
             }
 
             // Handle arrivals
-            while (i < arrivalTime.size() && arrivalTime[i][0] == time) {
+            while (i < arrivalTime.size() && arrivalTime[i][0] == time.top()) {
                 mp[arrivalTime[i][1]] = chair.top();
                 chair.pop();
                 i++;
             }
+            time.pop();
         }
 
        return mp[targetFriend];
