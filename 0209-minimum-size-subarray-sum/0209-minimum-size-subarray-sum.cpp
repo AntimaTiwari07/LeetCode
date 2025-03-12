@@ -14,7 +14,6 @@ public:
                     i++;
                      size = min(size,j-i+1);
                 }
-                cout<<size<<endl;
             }
             j++;
         }
