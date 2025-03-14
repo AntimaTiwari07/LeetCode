@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AntimaTiwari07/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
 |  |
 | ------- |
