@@ -23,7 +23,6 @@ public:
                 count = 1;
                 curr_char = chars[i];
             }
-            cout<<curr_char<<" "<<count<<endl;
         }
         chars[idx] = curr_char;
         idx+=1;
