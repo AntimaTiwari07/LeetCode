@@ -26,7 +26,7 @@ public:
     return true;
   }
     int longestNiceSubarray(vector<int>& nums) {
-        vector<int>v(40,0);
+        vector<int>v(30,0);
         int ans = 1;
         int i = 0;int j = 0;
         while(j<nums.size()&& i<nums.size()){
