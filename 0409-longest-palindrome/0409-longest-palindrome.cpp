@@ -11,7 +11,6 @@ public:
         int total = 0;
         int cnt = 0;
         for(auto i:mp){
-          total+=i.second;
             if(i.second%2==0){
                 sum+=(i.second);
             }
@@ -20,7 +19,9 @@ public:
                 cnt+=1;
             }
         }
+        cout<<odd<<endl;
         if(odd==0 && temp==1)return sum+1;
-              return sum+odd-cnt+1;
+              if(cnt!=0)return sum+odd-cnt+1;
+              return sum+odd;
     }
 };
