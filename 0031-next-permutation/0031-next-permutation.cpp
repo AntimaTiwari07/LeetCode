@@ -34,7 +34,6 @@ public:
            }
            cout<<minnum<<endl;
            swap(nums[idx],nums[index]);
-           for(int i = 0;i<nums.size();i++)cout<<nums[i]<<" ";
            for(int i = idx+1;i<n-1;i++){
                for(int j = n-1;j>=i+1;j--){
                 if(nums[i]>nums[j]){
