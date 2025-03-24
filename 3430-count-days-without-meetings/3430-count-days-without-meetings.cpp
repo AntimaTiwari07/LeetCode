@@ -17,7 +17,6 @@ public:
       v.push_back({st,end});
       int diff = 0;
       for(int i = 0;i<v.size();i++){
-        cout<<v[i][0]<<" "<<v[i][1]<<endl;
         diff = diff +(v[i][1]-v[i][0]+1);
       }
          return days-diff;
