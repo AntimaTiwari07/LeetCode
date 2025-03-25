@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/2634-minimum-common-value) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/AntimaTiwari07/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2645-pass-the-pillow](https://github.com/AntimaTiwari07/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AntimaTiwari07/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2634-minimum-common-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/AntimaTiwari07/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Backtracking
