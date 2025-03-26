@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/AntimaTiwari07/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AntimaTiwari07/LeetCode/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AntimaTiwari07/LeetCode/tree/master/0670-maximum-swap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/AntimaTiwari07/LeetCode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0778-reorganize-string) |
