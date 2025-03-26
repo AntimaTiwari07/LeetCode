@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AntimaTiwari07/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/AntimaTiwari07/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2571-find-the-pivot-integer) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
