@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AntimaTiwari07/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AntimaTiwari07/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/AntimaTiwari07/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AntimaTiwari07/LeetCode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/AntimaTiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/AntimaTiwari07/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AntimaTiwari07/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2050-count-good-numbers) |
