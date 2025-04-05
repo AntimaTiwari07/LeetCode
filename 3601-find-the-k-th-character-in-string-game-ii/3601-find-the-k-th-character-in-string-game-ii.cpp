@@ -15,7 +15,7 @@ public:
             return solve(n-1,k,operations);
         }
         else{
-            cout<<operations[n-1]<<" "<<n-1<<endl;
+         
              return (solve(n-1,k-mid,operations) -'a'+ operations[n-1])%26+'a';
         }
     }
