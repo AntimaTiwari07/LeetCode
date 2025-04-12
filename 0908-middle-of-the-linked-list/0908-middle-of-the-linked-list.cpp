@@ -11,17 +11,14 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-      ListNode *curr = head;
-      int size = 0;
-      while(curr!=NULL){
-        size+=1;
-        curr= curr->next;
-      }
-      curr = head;
-     int midlen = size/2;
-     for(int i = 1;i<=midlen;i++){
-       curr= curr->next;
-     }
-     return curr;
+        //one pass
+        //slow fast pointer tech
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
     }
 };
