@@ -10,18 +10,18 @@
  */
 class Solution {
 public:
-
     ListNode* reverseList(ListNode* head) {
-     //create a empty linked list 
-     ListNode *newhead = nullptr;
+        //iterative approach
+        ListNode * prev = NULL;
+         ListNode * NEXT = NULL;
+          ListNode * curr = head;
+          while(curr){
+            NEXT = curr->next;//store index
+            curr->next = prev;
+            prev = curr;
+            curr = NEXT;
+          }
+          return prev;
 
-     while(head!=NULL){
-        ListNode *newnode = new ListNode(head->val);
-        newnode->next = newhead;
-        newhead = newnode;
-        head = head->next;
-     }
-     return newhead;
-      
     }
 };
