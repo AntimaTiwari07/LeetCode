@@ -6,6 +6,7 @@ public:
           count[s[i]-'a']++;
         }
         char odd ;
+        //op = odd present
         bool op = false;
        for(int i = 0;i<26;i++){
         if(count[i]!=0 && count[i]%2!=0){
@@ -18,7 +19,6 @@ public:
         if(count[i]!=0 ){
             char ch = (char)(i+'a');
             string temp = string(count[i]/2,ch);
-            cout<<temp<<endl;
             ans+=temp;
             count[i]=count[i]/2;
         }
