@@ -10,46 +10,31 @@
  */
 class Solution {
 public:
-
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* first = list1;
-        ListNode*  sec = list2;
-        ListNode* newlist = nullptr; //empty linked list
-        
+    ListNode* mergeTwoLists(ListNode* a, ListNode* b) {
+        ListNode * first = a;
+        ListNode *sec = b;
+        ListNode *c = new ListNode(-1);
+        ListNode* third = c;
         while(first!=NULL && sec!=NULL){
-            if(first->val <= sec->val){
-               ListNode* newnode = new  ListNode (first->val);
-               newnode->next = newlist;
-               newlist = newnode;
-               first= first->next;
+            if(first->val<= sec->val){
+                ListNode * t = new ListNode(first->val);
+                third->next = t;
+                third = t;
+                first = first->next;
             }
             else{
-                ListNode* newnode = new  ListNode (sec->val);
-               newnode->next = newlist;
-               newlist = newnode;
-               sec = sec->next;
+              ListNode * t = new ListNode(sec->val);
+                third->next = t;
+                third = t;
+                sec = sec->next;
             }
         }
-        while(first!=NULL){
-             ListNode* newnode = new  ListNode (first->val);
-               newnode->next = newlist;
-               newlist = newnode;
-          
-               first = first->next;
+        if(first==NULL){
+            third->next = sec;
         }
-        while(sec!=NULL){
-             ListNode* newnode = new  ListNode (sec->val);
-               newnode->next = newlist;
-               newlist = newnode;
-               sec = sec->next;
+        else{
+            third->next = first;
         }
-        ListNode *newhead = nullptr;
-        while(newlist!=NULL){
-            ListNode * node = new ListNode(newlist->val);
-            node->next = newhead;
-            newhead = node;
-            newlist= newlist->next;
-        }
-        return newhead;
+        return c->next;
     }
 };
