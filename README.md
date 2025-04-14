@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/AntimaTiwari07/LeetCode/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/AntimaTiwari07/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/AntimaTiwari07/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AntimaTiwari07/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AntimaTiwari07/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2998-count-symmetric-integers) |
