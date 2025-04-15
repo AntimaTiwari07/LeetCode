@@ -21,9 +21,9 @@ public:
         int sum = a->val+b->val+div;
           rem = sum%10;
           div = sum/10;
-          ListNode * temp = new ListNode(rem);
-          c->next = temp;
-          c = temp;
+          a->val = rem;
+          c->next = a;
+          c = c->next;
           a = a->next;
           b= b->next;
        }
@@ -31,18 +31,18 @@ public:
         int sum = b->val+div;
           rem = sum%10;
           div = sum/10;
-          ListNode * temp = new ListNode(rem);
-          c->next = temp;
-          c = temp;
+          b->val = rem;
+          c->next = b;
+          c = c->next;
           b = b->next;
         }
        while(a!=NULL){
          int sum = a->val+div;
           rem = sum%10;
           div = sum/10;
-          ListNode * temp = new ListNode(rem);
-          c->next = temp;
-          c = temp;
+          a->val = rem;
+          c->next = a;
+          c = c->next;
           a = a->next;
        } 
        if(div!=0){
