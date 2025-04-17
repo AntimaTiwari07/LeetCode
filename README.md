@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AntimaTiwari07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AntimaTiwari07/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
