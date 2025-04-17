@@ -1,26 +1,26 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int>ans;
-        for(int i = 0;i<nums1.size();i++){
-            for(int j = 0;j<nums2.size();j++){
-                if(nums1[i]==nums2[j]){
-                    int k = j+1;
-                    bool fo = false;
-                    while(k<nums2.size()){
-                        if(nums2[k]>nums2[j]){
-                            ans.push_back(nums2[k]);
-                            fo = true;
-                            break;
-                        }
-                    k++;
-                    }
-                    if(!fo)ans.push_back(-1);
-                    break;
-                }
+        vector<int>nge(nums2.size());
+        stack<int>st;
+         for(int i = nums2.size()-1;i>=0;i--){
+            while(!st.empty() && st.top()<=nums2[i]){
+                st.pop();
             }
-          
+            if(st.empty()){nge[i]=-1;}
+            else{
+                nge[i]=st.top();
+            }
+            st.push(nums2[i]);
+         }
+         vector<int>ans(nums1.size());
+       for(int i = 0;i<nums1.size();i++){
+        for(int j =0;j<nums2.size();j++){
+            if(nums1[i]==nums2[j]){
+                ans[i]=nge[j];
+            }
         }
-                 return ans;
+       }
+        return ans;
     }
 };
