@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/AntimaTiwari07/LeetCode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/AntimaTiwari07/LeetCode/tree/master/0979-di-string-match) |
+| [0983-validate-stack-sequences](https://github.com/AntimaTiwari07/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AntimaTiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AntimaTiwari07/LeetCode/tree/master/0415-add-strings) |
+| [0983-validate-stack-sequences](https://github.com/AntimaTiwari07/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1449-print-words-vertically](https://github.com/AntimaTiwari07/LeetCode/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/AntimaTiwari07/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0931-maximum-frequency-stack](https://github.com/AntimaTiwari07/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/AntimaTiwari07/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
