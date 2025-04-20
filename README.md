@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0878-shifting-letters](https://github.com/AntimaTiwari07/LeetCode/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AntimaTiwari07/LeetCode/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AntimaTiwari07/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/AntimaTiwari07/LeetCode/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/AntimaTiwari07/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/AntimaTiwari07/LeetCode/tree/master/0979-di-string-match) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/AntimaTiwari07/LeetCode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AntimaTiwari07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0931-maximum-frequency-stack](https://github.com/AntimaTiwari07/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
