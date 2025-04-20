@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AntimaTiwari07/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AntimaTiwari07/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
 | [1449-print-words-vertically](https://github.com/AntimaTiwari07/LeetCode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/AntimaTiwari07/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/AntimaTiwari07/LeetCode/tree/master/0979-di-string-match) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AntimaTiwari07/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/AntimaTiwari07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AntimaTiwari07/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/AntimaTiwari07/LeetCode/tree/master/0952-word-subsets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AntimaTiwari07/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
