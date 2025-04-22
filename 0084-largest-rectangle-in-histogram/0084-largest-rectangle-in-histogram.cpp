@@ -53,9 +53,6 @@ stack<int>prev;
      }
      int area = 0;
      for(int i = 0;i<n;i++){
-        cout<<pse[i]<<" "<<nse[i]<<endl;
-     }
-     for(int i = 0;i<n;i++){
         area = max(area,heights[i]*(nse[i]-pse[i]-1));
      }
      return area;
