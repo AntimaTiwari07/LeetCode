@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AntimaTiwari07/LeetCode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AntimaTiwari07/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AntimaTiwari07/LeetCode/tree/master/0278-first-bad-version) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AntimaTiwari07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AntimaTiwari07/LeetCode/tree/master/0283-move-zeroes) |
