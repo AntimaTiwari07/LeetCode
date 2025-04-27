@@ -26,9 +26,10 @@ public:
         for(int i = 0;i<m;i++){
             for(int j = 0;j<n;j++){
                    solve(board,word,visited,0,i,j,m,n,ans);
+                   if(ans)return true;
             }
         }
        
-        return ans;
+        return false;
     }
 };
