@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AntimaTiwari07/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AntimaTiwari07/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AntimaTiwari07/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AntimaTiwari07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0898-transpose-matrix) |
 | [1972-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1972-rotating-the-box) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AntimaTiwari07/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/AntimaTiwari07/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/AntimaTiwari07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/AntimaTiwari07/LeetCode/tree/master/0242-valid-anagram) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AntimaTiwari07/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AntimaTiwari07/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AntimaTiwari07/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AntimaTiwari07/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -907,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
