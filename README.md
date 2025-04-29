@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0878-shifting-letters](https://github.com/AntimaTiwari07/LeetCode/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/AntimaTiwari07/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/AntimaTiwari07/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0932-monotonic-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AntimaTiwari07/LeetCode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/AntimaTiwari07/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0983-validate-stack-sequences](https://github.com/AntimaTiwari07/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1449-print-words-vertically](https://github.com/AntimaTiwari07/LeetCode/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/AntimaTiwari07/LeetCode/tree/master/1642-water-bottles) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AntimaTiwari07/LeetCode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0906-walking-robot-simulation](https://github.com/AntimaTiwari07/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AntimaTiwari07/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0931-maximum-frequency-stack](https://github.com/AntimaTiwari07/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
