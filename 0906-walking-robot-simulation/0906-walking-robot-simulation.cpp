@@ -54,8 +54,6 @@ public:
                 else if(ch=='s') ch = 'e';
                 else if(ch=='e') ch = 'n';
             }
-             cout<<ch<<endl;
-            cout<<"x = "<<x <<" y = "<<y<<endl;
             maxdis = max(maxdis,(int)(pow(x,2)+pow(y,2)));
         }
         return maxdis;
