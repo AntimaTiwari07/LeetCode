@@ -1,41 +1,41 @@
 class Solution {
 public:
-int binary(vector<int>& nums, int target,int start,int end){
-         int mid;
-        while(start<=end){
-            mid = start+(end-start)/2;
-            if(nums[mid]==target){
-                return mid;
-            }
-            else if(nums[mid]>target){
-                end = mid-1;
-            }
-            else{
-                start = mid+1;
-            }
-        }
-        return -1;
-}
-
     int search(vector<int>& nums, int target) {
-        int mini = INT_MAX;
-        int min_idx = -1;
-       for(int i = 0;i<nums.size();i++){
-           if(nums[i]<mini){
-            mini  = nums[i];
-            min_idx = i;
-           }    
-       }
-       if(target==nums[min_idx]){
-        return min_idx;
-       }
-       else if(target>nums[nums.size()-1]){
-       min_idx = binary(nums,target,0,min_idx-1);
-       }
-       else{
-        min_idx = binary(nums,target,min_idx,nums.size()-1);
-       }
-       return min_idx;
-     
-       }
+   int st  = 0;
+   int end = nums.size()-1;
+   int mini = nums[st];
+   int mid;
+   int idx = 0;
+   while(st<=end){
+    mid = st+(end-st)/2;
+    if(nums[mid]<mini){
+        idx = mid;
+        end = mid-1;
+    }
+    else{
+        st = mid+1;
+    }
+   }
+   cout<<idx<<endl; 
+   if(idx-1>=0 && target>=nums[0] && target<=nums[idx-1]) {
+    st = 0;
+    end = idx-1;
+   }
+   else if(target>=nums[idx] && target<=nums[nums.size()-1]){
+    st  =idx;
+    end = nums.size()-1;
+   }
+   else return -1;
+   while(st<=end){
+    mid = st+(end-st)/2;
+    if(nums[mid]==target)return mid;
+    else if(nums[mid]<target){
+        st = mid+1;
+    }
+    else{
+        end = mid-1;
+    }
+   }
+return -1;
+    }
 };
