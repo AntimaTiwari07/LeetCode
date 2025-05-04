@@ -15,7 +15,7 @@ public:
       for(int i = 0;i<v.size();i++){
         string x = v[i];
         bool exist = false;
-         reverse(v[i].begin(),v[i].end());
+        swap(v[i][0],v[i][1]);
         if( v[i]!=x && mp[v[i]]>0){
             exist = true;
         }
