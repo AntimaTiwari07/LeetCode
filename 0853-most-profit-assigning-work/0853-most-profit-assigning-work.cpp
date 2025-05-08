@@ -16,7 +16,6 @@ public:
          int curr_idx = worker.size();
         while(!pq.empty() && size<worker.size()){
             int maxprofit = pq.top();
-            cout<<pq.top()<<endl;
             pq.pop();
             int st = 0;
             int end = worker.size()-1;
