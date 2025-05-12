@@ -9,6 +9,8 @@ public:
             mp[digits[i]]++;
         }
         while(st<=end){
+            if(st%2!=0)st+=1;
+            else{
            int x = st;
            bool valid = true;
            unordered_map<int,int>temp;
@@ -22,8 +24,9 @@ public:
                 break;
             }
            }
-           if(valid && st%2==0)ans.push_back(st);
+           if(valid)ans.push_back(st);
            st+=1;
+            }
         }
         return ans;
     }
