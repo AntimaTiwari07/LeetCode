@@ -2,10 +2,6 @@ class Solution {
 public:
 void solve(vector<string>& words, vector<int>& groups,vector<string>&temp,vector<string>&ans,int prev,int i,unordered_map<string,int>&mp,int maxidx){
     if(i>=words.size()){
-        for(int i = 0;i<temp.size();i++){
-            cout<<temp[i]<<" ";
-        }
-        cout<<endl;
         if(!temp.empty() && mp[temp[temp.size()-1]]-mp[temp[0]] > maxidx ){
             ans = temp;
             maxidx = mp[temp[0]]-mp[temp[temp.size()-1]];
