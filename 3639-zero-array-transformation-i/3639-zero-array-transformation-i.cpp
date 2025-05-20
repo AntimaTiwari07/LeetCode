@@ -6,14 +6,12 @@ public:
             diff[queries[i][0]]=diff[queries[i][0]]-1;
             diff[queries[i][1]+1]=diff[queries[i][1]+1]+1;
         }
+        int k = 0;
         for(int i =1;i<diff.size();i++){
             diff[i]=diff[i]+diff[i-1];
-        }
-        for(int i = 0;i<nums.size();i++){
-            if(nums[i]+diff[i]<=0)nums[i]=0;
-        }
-        for(int i = 0;i<nums.size();i++){
-            if(nums[i]!=0)return false;
+            if(nums[k]+diff[i-1]<=0)nums[k]=0;
+            else return false;
+            k++;
         }
         return true;
     }
