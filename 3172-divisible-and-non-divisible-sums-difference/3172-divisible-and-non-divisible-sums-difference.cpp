@@ -1,13 +1,9 @@
 class Solution {
 public:
     int differenceOfSums(int n, int m) {
-        int ans;
-        int suma = 0;
-        int sumb = 0;
-        for(int i = 1;i<=n;i++){
-            if(i%m==0)suma+=i;
-            else sumb+=i;
-        }
-        return (sumb-suma);
+        int total =  n*(n+1)/2;
+        int x  = n/m;
+        int can_divided = m*(x*(x+1)/2);
+        return (total-can_divided-can_divided);
     }
 };
