@@ -5,12 +5,11 @@ public:
         int mini = INT_MAX;
         for(int i = 0;i<nums.size();i++){
             if(nums[i]<mini){
-            for(int j = i+1;j<nums.size();j++){
-                if(nums[j]>nums[i]){
-                    diff = max(diff,nums[j]-nums[i]);
-                }
+                mini = nums[i];
             }
-        }
+            if(nums[i]>mini){
+                diff = max(diff,nums[i]-mini);
+            }
         }
         return diff;
     }
