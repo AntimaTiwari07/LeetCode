@@ -11,17 +11,24 @@
  */
 class Solution {
 public:
-bool check(TreeNode* root,long long min,long long max){
-    if(root==NULL)return true;
-    else if(root->val >min && root->val<max){
-        bool l = check(root->left,min,root->val);
-        bool r = check(root->right,root->val,max);
-        return l && r;
-    }
-    else return false;
-}
     bool isValidBST(TreeNode* root) {
-       // if((root->val>=INT_MIN && root->val<=INT_MAX) && root->left == NULL && root->right== NULL)return true;
-       return check(root,LLONG_MIN,LLONG_MAX);
+        stack<TreeNode*>st;
+        vector<int>ans;
+        while(!st.empty() || root!=NULL){
+            if(root!=NULL){
+                st.push(root);
+                cout<<st.top()->val<<endl;
+                root = root->left;
+            }
+            else{
+                ans.push_back(st.top()->val);
+                root  = st.top()->right;
+                st.pop();
+            }
+        }
+        for(int i = 0;i<ans.size()-1;i++){
+            if(ans[i]>=ans[i+1])return false;
+        }
+return true;
     }
 };
