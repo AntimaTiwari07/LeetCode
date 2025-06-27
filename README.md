@@ -1005,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0200-number-of-islands) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
 ## Trie
@@ -1204,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -1225,4 +1228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
