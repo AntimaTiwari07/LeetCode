@@ -26,7 +26,6 @@ public:
             if(q.front()->right!=NULL)q.push(q.front()->right);
             q.pop();
         }
-        cout<<endl;
         ans.push_back(level);
      }
      return ans;
