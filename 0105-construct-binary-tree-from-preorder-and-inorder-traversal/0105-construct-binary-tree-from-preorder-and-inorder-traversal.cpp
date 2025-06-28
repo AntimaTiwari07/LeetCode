@@ -14,7 +14,6 @@ public:
    TreeNode* solve(vector<int>& preorder, vector<int>& inorder,int st,int end ,int &pre_idx){
     if(st>end || st<0 || end>=preorder.size()||pre_idx>=preorder.size())return nullptr;
     TreeNode* root = new TreeNode(preorder[pre_idx]);
-    cout<<st<<" "<<end<<" "<<pre_idx<<endl;
     int idx = -1;
     for(int i = st;i<=end;i++){
         if(inorder[i]==preorder[pre_idx]){
