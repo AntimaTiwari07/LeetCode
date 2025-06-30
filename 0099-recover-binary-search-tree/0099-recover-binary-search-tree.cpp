@@ -24,14 +24,12 @@ void swap_t(TreeNode* root,vector<int>&ans,TreeNode * &temp, TreeNode * &temp2,b
          cout<<root->val<<" = temp "<<endl;
     }
     if(root->val==ans[1]){
-       temp2 = root;
-       cout<<root->val<<" = temp2 "<<endl;     
+       temp2 = root;   
     }
      if(temp!=NULL && temp2!=NULL && !swapped){
     int  x = temp->val;
     temp->val = temp2->val;
     temp2->val =x;
-    cout<<" temp = "<<temp->val<<" temp2 = "<<temp2->val<<endl;
     swapped= true;
     return;
    }
@@ -51,7 +49,6 @@ void swap_t(TreeNode* root,vector<int>&ans,TreeNode * &temp, TreeNode * &temp2,b
             k+=1;
                     }
        }
-       cout<<ans[0]<<" "<<ans[1]<<endl;
        TreeNode* x = NULL;
        TreeNode* y = NULL;
        bool swapped = false;
