@@ -11,14 +11,13 @@
  */
 class Solution {
 public:
-TreeNode* traverse(TreeNode* root){
-    if(root==NULL)return NULL;
-    TreeNode* curr = new TreeNode(root->val);
-    curr->left = traverse(root->right);
-    curr->right = traverse(root->left);
-    return curr;
-}
     TreeNode* invertTree(TreeNode* root) {
-        return traverse(root);
+        if(root==NULL)return NULL;
+        TreeNode* temp = root->right;
+        root->right = root->left; 
+        root->left = temp;
+     invertTree(root->left);
+     invertTree(root->right);
+     return root;
     }
 };
