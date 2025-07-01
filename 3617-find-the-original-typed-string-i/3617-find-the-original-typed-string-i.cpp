@@ -9,7 +9,6 @@ public:
             i--;
         }
      }
-     cout<<word<<endl;
      return count+1;
     }
 };
