@@ -29,14 +29,11 @@ public:
                     x+=temp;
                 }
                 i = st.top();
-                cout<<"num = "<<num.top()<<endl;
                 num.pop();
                 st.pop();
-                s = start+x+end;
-                cout<<"new s = "<<s<<endl;    
+                s = start+x+end; 
             }
         }
-    cout<<s<<endl;
     string ans = "";
     for(int j = 0;j<s.size();j++){
         if((s[j]>='a'&&s[j]<='z') || (s[j]>='A' && s[j]<='Z')){
