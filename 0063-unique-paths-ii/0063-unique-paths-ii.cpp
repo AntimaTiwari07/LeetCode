@@ -1,20 +1,15 @@
 class Solution {
 public:
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        vector<vector<int>>v(obstacleGrid.size(),vector<int>(obstacleGrid[0].size(),1));
-         int up = 0;
-            int left = 0;
-        for(int i  =0;i<obstacleGrid.size();i++){
-            for(int j = 0;j<obstacleGrid[i].size();j++){
-                up = 0;left=0;
-                 if(obstacleGrid[i][j]==1) v[i][j]=0;
-                else {if(i-1>=0 && obstacleGrid[i-1][j]!=1)up = v[i-1][j];
-                if(j-1>=0 && obstacleGrid[i][j-1]!=1)left = v[i][j-1];
-                 if(i==0 && j==0)v[i][j]=1;
-               else  v[i][j] = up+left;
-                }
-            }
-        }
-        return v[obstacleGrid.size()-1][obstacleGrid[0].size()-1];
+int solve(vector<vector<int>>& grid ,int i,int j,vector<vector<int>>&dp){
+  if((i<0 || i>=grid.size())  || (j<0 || j>=grid[0].size()) || grid[i][j]==1)return 0;
+  if(i == grid.size()-1 && j==grid[0].size()-1)return 1;
+  if(dp[i][j]!=-1)return dp[i][j];
+  int right = solve(grid,i,j+1,dp);
+  int down = solve(grid,i+1,j,dp); 
+  return dp[i][j] = right+down;
+}
+    int uniquePathsWithObstacles(vector<vector<int>>& grid) {
+        vector<vector<int>>dp(grid.size(),vector<int>(grid[0].size(),-1));
+    return solve(grid,0,0,dp);
     }
 };
