@@ -11,15 +11,17 @@
  */
 class Solution {
 public:
-void left_most(TreeNode* root ,int i,unordered_map<int,int>&mp){
-    if(root==NULL)return ;
-    mp[i]= root->val;
-    left_most(root->right,i+1,mp);
-    left_most(root->left,i+1,mp);
-}
     int findBottomLeftValue(TreeNode* root) {
-        unordered_map<int,int>mp;
-        left_most(root,0,mp);
-        return mp[mp.size()-1];
+        queue<TreeNode*>q;
+        q.push(root);
+        int ans = -1;
+        while(!q.empty()){
+            TreeNode* curr = q.front();
+            ans = curr->val;
+            q.pop();
+            if(curr->right!=NULL)q.push(curr->right);
+            if(curr->left)q.push(curr->left);
+        }
+        return ans;
     }
 };
