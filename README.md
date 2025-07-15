@@ -1049,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Trie
 |  |
 | ------- |
@@ -1276,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1306,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Data Stream
 |  |
 | ------- |
