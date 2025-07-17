@@ -1037,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AntimaTiwari07/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/AntimaTiwari07/LeetCode/tree/master/0130-surrounded-regions) |
@@ -1202,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AntimaTiwari07/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/AntimaTiwari07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/AntimaTiwari07/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -1223,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AntimaTiwari07/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/AntimaTiwari07/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -1272,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AntimaTiwari07/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1306,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AntimaTiwari07/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
