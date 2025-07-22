@@ -1060,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
@@ -1222,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/AntimaTiwari07/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1306,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -1346,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
