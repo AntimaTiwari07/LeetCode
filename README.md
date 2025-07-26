@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AntimaTiwari07/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AntimaTiwari07/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AntimaTiwari07/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/AntimaTiwari07/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AntimaTiwari07/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/AntimaTiwari07/LeetCode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AntimaTiwari07/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AntimaTiwari07/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1316,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -1359,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
@@ -1384,4 +1389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
