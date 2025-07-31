@@ -11,7 +11,6 @@ bool valid(string &s){
     return true;
 }
  void solve(int num,string temp,int i,vector<string>&ans){
-    if(temp[0]==')')return ;
     if(i>num){
         if(valid(temp)){
             ans.push_back(temp);
