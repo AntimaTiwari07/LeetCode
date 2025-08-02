@@ -1,21 +1,19 @@
 class Solution {
 public:
-void subset(vector<int>& nums,long long x,long long &maxi,int &cnt,int i){
+int subset(vector<int>& nums,long long x,long long &maxi,int i){
     if(i==nums.size()){
-       if(x==maxi)cnt+=1;
-        return;
+       if(x==maxi)return 1;
+        else return 0 ;
     }
-    subset(nums,(x|nums[i]),maxi,cnt,i+1);
-    subset(nums,x,maxi,cnt,i+1);
+    int take = subset(nums,(x|nums[i]),maxi,i+1);
+   int not_t =  subset(nums,x,maxi,i+1);
+   return take+not_t ;
 }
     int countMaxOrSubsets(vector<int>& nums) {
         long long maxi = 0;
         for(int i = 0;i<nums.size();i++){
             maxi = (maxi | nums[i]);
         }
-        int cnt = 0;
-        subset(nums,0,maxi,cnt,0);
-        
-        return cnt;
+        return subset(nums,0,maxi,0);
     }
 };
