@@ -20,17 +20,13 @@ void search(TreeNode* root,vector<int>&v){
     bool findTarget(TreeNode* root, int k) {
         vector<int>v;
         search(root,v);
-        for(int i = 0;i<v.size();i++){
-            int st = i+1;
-            int end = v.size()-1;
-            int mid;
-            while(st<=end){
-                mid = st+(end-st)/2;
-                if(v[mid]==(k-v[i]))return true;
-                else if(v[mid]<(k-v[i]))st = mid+1;
-                else end = mid-1;
-            }
-        }
+       int i = 0;
+       int j = v.size()-1;
+       while(i<j){
+         if(v[i]+v[j]==k)return true;
+         else if(v[i]+v[j]>k)j--;
+         else i++;
+       }
         return false;
     }
 };
