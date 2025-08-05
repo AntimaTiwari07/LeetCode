@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-minimum-time-to-break-locks-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AntimaTiwari07/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AntimaTiwari07/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3790-fruits-into-baskets-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1189,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/AntimaTiwari07/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [2868-continuous-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1408,4 +1412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
