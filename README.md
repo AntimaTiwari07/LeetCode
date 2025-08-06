@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/AntimaTiwari07/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AntimaTiwari07/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1251,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -1345,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1393,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
