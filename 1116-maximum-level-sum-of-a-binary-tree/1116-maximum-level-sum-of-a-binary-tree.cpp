@@ -15,12 +15,13 @@ public:
         queue<TreeNode*>q;
         q.push(root);
         q.push(NULL);
-        long long sum = 0;
-        long long maxsum = -100001;
+        int sum = 0;
+        int maxsum = INT_MIN;
         int level = 0;
         int k = 0;
+           TreeNode * curr;
         while(!q.empty()){
-            TreeNode * curr = q.front();
+          curr = q.front();
             q.pop();
             if(curr){
                 sum+=curr->val;
