@@ -32,7 +32,6 @@ public:
         else{
             int i  =0;
             int j = v.size()-1;
-            for(int k = 0;k<v.size();k++)cout<<v[k]<<" ";
             while(i<j){
                 if(v[i]!=v[j])return false;
                 else{
