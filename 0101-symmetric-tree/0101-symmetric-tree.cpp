@@ -11,19 +11,39 @@
  */
 class Solution {
 public:
-bool helper(TreeNode* t1,TreeNode* t2){
-    if(t1==NULL && t2==NULL)return true;
-    if(t1!=NULL && t2==NULL)return false;
-    if(t1==NULL && t2!=NULL)return false;
-    if(t1->val!=t2->val)return false;
-    bool l = helper(t1->left,t2->right);
-    if(l==false)return false;
-    bool r = helper(t1->right,t2->left);
-    if(r==false)return false;
-    return true;
-
-}
     bool isSymmetric(TreeNode* root) {
-        return helper(root,root);
+        queue<TreeNode*>q;
+        q.push(root);
+        q.push(NULL);
+        vector<int>v;
+        while(!q.empty()){
+        TreeNode* curr = q.front();
+        q.pop();
+        if(curr){
+            if(curr->left){
+                q.push(curr->left);
+                v.push_back(curr->left->val);
+            }else v.push_back(101);
+            if(curr->right){
+                q.push(curr->right);
+                v.push_back(curr->right->val);
+            }else v.push_back(101);
+        }
+        else{
+            int i  =0;
+            int j = v.size()-1;
+            for(int k = 0;k<v.size();k++)cout<<v[k]<<" ";
+            while(i<j){
+                if(v[i]!=v[j])return false;
+                else{
+                    i++;
+                    j--;
+                }
+            }
+            if(!q.empty()){q.push(NULL);}
+            v = {};
+        }
+        }
+  return true;
     }
 };
