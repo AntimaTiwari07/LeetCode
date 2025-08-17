@@ -1,11 +1,12 @@
 class Solution {
 public:
-vector<int> solve(string s){
+vector<int> solve(string &s,vector<vector<vector<int>>>&dp,int st,int end){
       vector<int>res;
-    for(int i = 0;i<s.size();i++){
+      if(!dp[st][end].empty())return dp[st][end];
+    for(int i = st;i<=end;i++){
         if(s[i]=='+' || s[i]=='-' || s[i]=='*'){
-            vector<int>left= solve(s.substr(0,i));
-            vector<int>right = solve(s.substr(i+1));
+            vector<int>left= solve(s,dp,st,i-1);
+            vector<int>right = solve(s,dp,i+1,end);
 //add operation to merge both vectors 
      
         for(int j = 0;j<left.size();j++){
@@ -23,10 +24,18 @@ vector<int> solve(string s){
         }
     }   
 }
- if(res.empty())res.push_back(stoi(s));
+
+  if (res.empty()) {
+    res.push_back(stoi(s.substr(st, end - st + 1)));
+  }
+
+ dp[st][end] = res;
  return res;
 }
     vector<int> diffWaysToCompute(string expression) {
-        return solve(expression);
+        vector<vector<vector<int>>>dp(expression.size(),vector<vector<int>>(expression.size()));
+        vector<int>ans;
+         ans = solve(expression,dp,0,expression.size()-1);
+         return ans;
     }
 };
