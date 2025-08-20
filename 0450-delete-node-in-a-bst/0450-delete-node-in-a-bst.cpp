@@ -41,7 +41,6 @@ void traverse(TreeNode* root,vector<int>&inorder,vector<int>&preorder,int &val,i
         vector<int>preorder;
         int count = 0;
         traverse(root,inorder,preorder,key,count);
-        cout<<"count = "<<count<<endl;
         if(count==0)return root;
         int idx = 0;
       return insert(inorder,preorder,0,inorder.size()-1,idx);
