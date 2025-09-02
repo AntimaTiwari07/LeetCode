@@ -1,15 +1,29 @@
 class Solution {
 public:
-int solve(vector<int>& nums,int prev_idx,int curr_idx,vector<vector<int>>&dp){
-    if(curr_idx==nums.size())return 0;
-     if(dp[prev_idx+1][curr_idx]!=-1)return dp[prev_idx+1][curr_idx];
-    int take =0;
-    if(prev_idx==-1 || nums[curr_idx]>nums[prev_idx]) take = 1+solve(nums,curr_idx,curr_idx+1,dp);
-    int not_take = solve(nums,prev_idx,curr_idx+1,dp);
-    return dp[prev_idx+1][curr_idx]=  max(take,not_take);
-}
     int lengthOfLIS(vector<int>& nums) {
-        vector<vector<int>>dp(nums.size()+1,vector<int>(nums.size()+1,-1));
-        return solve(nums,-1,0,dp);
+        vector<int>res;
+        for(int i = 0;i<nums.size();i++){
+          if(res.empty())res.push_back(nums[i]);
+          else if(nums[i]>res.back()) res.push_back(nums[i]);
+          else {
+            int st = 0;
+            int end = res.size()-1;
+            int mid;
+            int idx = -1;
+            while(st<=end){
+                mid = st+(end-st)/2;
+                if(res[mid]==nums[i]){ st = mid;break;}
+                if(st==end && nums[i]>res[mid]) {st = st+1; break;}
+                else if(st==end && nums[i]<res[mid]){ break;}
+                else if(st!=end && nums[i]<res[mid]) end = mid-1;
+                else st = mid+1; 
+            }
+            res[st] = nums[i];
+            for(int i = 0;i<res.size();i++)cout<<res[i]<<" ";
+            cout<<endl;
+          }
+        }
+        for(int i = 0;i<res.size();i++)cout<<res[i]<<" ";
+        return res.size();
     }
 };
