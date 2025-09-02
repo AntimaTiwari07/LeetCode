@@ -19,11 +19,9 @@ public:
                 else st = mid+1; 
             }
             res[st] = nums[i];
-            for(int i = 0;i<res.size();i++)cout<<res[i]<<" ";
-            cout<<endl;
           }
         }
-        for(int i = 0;i<res.size();i++)cout<<res[i]<<" ";
+
         return res.size();
     }
 };
