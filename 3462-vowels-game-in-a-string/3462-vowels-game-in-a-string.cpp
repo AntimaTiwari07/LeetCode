@@ -11,7 +11,7 @@ public:
                 idx = i;
             }
         }
-        cout<<idx<<endl;
+       
         if(idx==-1)return false;
         if(idx==s.size())return true;
         int con = 0;
