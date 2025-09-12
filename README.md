@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AntimaTiwari07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AntimaTiwari07/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
 | ------- |
