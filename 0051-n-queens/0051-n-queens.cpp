@@ -1,6 +1,6 @@
 class Solution {
 public:
-bool safe(vector<string>&v,int row,int col,int size){
+bool safe(vector<string>&v,int row,int col,int &size){
     //row marked
      for(int i = 0;i<size;i++){
         if(v[i][col]=='Q')return false;
@@ -32,7 +32,7 @@ bool safe(vector<string>&v,int row,int col,int size){
 }
 
 
-void solve(vector<string>&v,int n,int row,vector<vector<string>>&ans){
+void solve(vector<string>&v,int &n,int row,vector<vector<string>>&ans){
 if(row==n){
     ans.push_back(v);
     return;
