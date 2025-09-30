@@ -12,7 +12,7 @@ int solve(int amount, vector<int>& coins,int i,vector<vector<int>>&dp){
     return dp[i][amount] = take+not_take;
 }
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>>dp(301,vector<int>(5001,-1));
+        vector<vector<int>>dp(coins.size(),vector<int>(amount+1,-1));
         return solve(amount,coins,0,dp);
 
     }
