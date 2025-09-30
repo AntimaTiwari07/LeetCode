@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AntimaTiwari07/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/AntimaTiwari07/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AntimaTiwari07/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/AntimaTiwari07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Game Theory
 |  |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AntimaTiwari07/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
@@ -1229,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |
@@ -1240,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Combinatorics
 |  |
 | ------- |
