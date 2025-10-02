@@ -1,23 +1,22 @@
 class Solution {
 public:
 int MOD = 1000000007;
-int fbu(int target,int n,int k){
-     vector<vector<int>>dp(n+1,vector<int>(target+1,0));
-     dp[0][0] = 1;
-     for(int num = 1;num<=n;num++){
-        for(int j = 1;j<=target;j++){
+int f(int target,int n,int k,vector<vector<int>>&dp){
+    if(target==0 && n==0)return 1;
+    if(n==0 && target!=0)return 0;
+    if(target==0 && n!=0)return 0;
+    if(target<0 || n<0) return 0;
+    if(dp[target][n]!=-1)return dp[target][n];
     int sum = 0;
     for(int i =1 ;i<=k;i++){
-        if(j-i>=0){
-        sum = (sum%MOD + dp[num-1][j-i]%MOD)%MOD;
+        if(target-i>=0){
+        sum = (sum%MOD + f(target-i,n-1,k,dp)%MOD)%MOD;
         }
     }
-    dp[num][j] = sum%MOD;
-        }
-    }
-    return  dp[n][target];
+    return dp[target][n] = sum%MOD;
 }
     int numRollsToTarget(int n, int k, int target) {
-        return fbu(target,n,k)%MOD;
+        vector<vector<int>>dp(target+1,vector<int>(n+1,-1));
+        return f(target,n,k,dp)%MOD;
     }
 };
