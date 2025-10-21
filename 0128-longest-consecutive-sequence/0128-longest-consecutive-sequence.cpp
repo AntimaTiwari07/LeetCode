@@ -9,7 +9,6 @@ public:
    int ans = INT_MIN;
    int val ;
    for(auto i:mp){
-    cout<<i.first<<" "<<i.second<<endl;
     if(cnt==0){
       val = i.first;
       cnt+=1;
