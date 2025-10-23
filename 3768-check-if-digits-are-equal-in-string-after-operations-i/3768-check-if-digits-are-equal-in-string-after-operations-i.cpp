@@ -1,0 +1,18 @@
+class Solution {
+public:
+    bool hasSameDigits(string s) {
+        while(s.size()>2){
+            string newstr ="";
+        for(int i = 0;i<s.size()-1;i++){
+            newstr+=(s[i]-'0'+s[i+1]-'0')%10;
+        }
+            s=newstr;
+        }
+        if(s.size()==2){
+        for(int i =0;i<2;i++){
+            if(s[0]==s[1])return true;
+        }
+        }
+        return false;
+    }
+};
