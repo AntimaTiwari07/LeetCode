@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/AntimaTiwari07/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/AntimaTiwari07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/0496-next-greater-element-i) |
