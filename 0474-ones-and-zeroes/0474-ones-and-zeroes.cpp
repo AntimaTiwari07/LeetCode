@@ -18,7 +18,7 @@ int f(vector<string>& strs, int m, int n,int i ,int zero,int one,vector<vector<v
     return dp[i][zero][one] =  max(take,not_take);
 }
     int findMaxForm(vector<string>& strs, int m, int n) {
-        vector<vector<vector<int>>>dp(600,vector<vector<int>>(105,vector<int>(105,-1)));
+        vector<vector<vector<int>>>dp(strs.size(),vector<vector<int>>(m+1,vector<int>(n+1,-1)));
         return f(strs,m,n,0,0,0,dp);
         
     }
