@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AntimaTiwari07/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AntimaTiwari07/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AntimaTiwari07/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AntimaTiwari07/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
