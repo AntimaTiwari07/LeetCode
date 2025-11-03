@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/AntimaTiwari07/LeetCode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AntimaTiwari07/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AntimaTiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/AntimaTiwari07/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AntimaTiwari07/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AntimaTiwari07/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AntimaTiwari07/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/AntimaTiwari07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AntimaTiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2089-maximum-matrix-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AntimaTiwari07/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AntimaTiwari07/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AntimaTiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1024,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AntimaTiwari07/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AntimaTiwari07/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AntimaTiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AntimaTiwari07/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/AntimaTiwari07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
