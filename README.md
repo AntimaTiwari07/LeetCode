@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AntimaTiwari07/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AntimaTiwari07/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String Matching
 |  |
@@ -1247,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Quickselect
 |  |
