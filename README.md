@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2288-count-operations-to-obtain-zero](https://github.com/AntimaTiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/AntimaTiwari07/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/AntimaTiwari07/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AntimaTiwari07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/AntimaTiwari07/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/2386-min-max-game) |
 | [2470-removing-stars-from-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2470-removing-stars-from-a-string) |
