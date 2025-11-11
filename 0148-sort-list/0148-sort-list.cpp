@@ -18,13 +18,11 @@ public:
             curr = curr->next;
         }
         sort(arr.begin(),arr.end());
-        ListNode* x = new ListNode(-1);
-        ListNode* temp = x;
+        ListNode* temp = head;
         for(int i = 0;i<arr.size();i++){
-            ListNode* t = new ListNode(arr[i]);
-             temp->next = t;
+             temp->val = arr[i];
              temp = temp->next;
         }
-        return x->next;
+        return head;
     }
 };
