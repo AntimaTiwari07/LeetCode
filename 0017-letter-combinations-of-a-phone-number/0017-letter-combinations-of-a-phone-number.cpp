@@ -1,30 +1,28 @@
 class Solution {
 public:
-void solve(string &digits,unordered_map<int,vector<char>>&mp,string ans,int i,vector<string>&result){
+void solve(string digits,string temp,int i,unordered_map<char,string>&mp,vector<string>&ans){
     if(i==digits.size()){
-       if(!ans.empty())result.push_back(ans);
+        cout<<temp<<endl;
+        ans.push_back(temp);
         return;
     }
-    int num = digits[i]-'0';
-    for(int j = 0;j<mp[num].size();j++){
-        char ch = mp[num][j];
-         solve(digits,mp,ans+ch,i+1,result);
-    } 
+    string str = mp[digits[i]];
+    for(int j = 0;j<str.size();j++){
+        solve(digits,temp+str[j],i+1,mp,ans);
+    }
 }
     vector<string> letterCombinations(string digits) {
-        unordered_map<int,vector<char>>mp;
-        mp[2]={'a','b','c'};
-        mp[3]={'d','e','f'};
-        mp[4]= {'g','h','i'};
-         mp[5]= {'j','k','l'};
-         mp[6]= {'m','n','o'};
-         mp[7]= {'p','q','r','s'};
-         mp[8]= {'t','u','v'};
-         mp[9]= {'w','x','y','z'};
-
-        vector<string>result;
-       
-        solve(digits,mp,"",0,result);
-        return result;
+        unordered_map<char,string>mp;
+        mp['2'] = "abc";
+        mp['3'] = "def";
+        mp['4'] = "ghi";
+        mp['5'] = "jkl";
+        mp['6'] = "mno";
+        mp['7'] = "pqrs";
+        mp['8'] = "tuv";
+        mp['9'] = "wxyz";
+  vector<string>ans;
+        solve(digits,"",0,mp,ans);
+        return ans;
     }
 };
