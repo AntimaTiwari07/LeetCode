@@ -11,72 +11,34 @@
 class Solution {
 public:
 ListNode* merge(ListNode* a,ListNode* b){
-    // ListNode* l = a;
-    // while(l!=NULL){
-    //     cout<<l->val<<" ";
-    //     l= l->next;
-    // }
-    // cout<<endl;
-    //  l = b;
-    // while(l!=NULL){
-    //     cout<<l->val<<" ";
-    //     l = l->next;
-    // }
-    // cout<<endl;
-    ListNode* temp = new ListNode(-1);
-    ListNode* x = temp;
+    ListNode* x = new ListNode(-1);
+    ListNode* temp= x;
     while(a!=NULL && b!=NULL){
         if(a->val<=b->val){
-            x->next = a;
+            temp->next = a;
             a = a->next;
-            x = x->next;
+            temp = temp->next;
         }
         else{
-            x->next = b;
-            b = b->next;
-            x = x->next;
+          temp->next = b;
+          b = b->next;
+          temp = temp->next;
         }
     }
-    if(a==NULL)x->next = b;
-    else x->next = a;
-    return temp->next;
-}
-ListNode* sortList(ListNode* head){
-    if(head==NULL || head->next==NULL)return head;
-    ListNode* slow = head;
-    ListNode* fast = head;
-
-    while(fast->next!=NULL && fast->next->next!=NULL){
-        slow = slow->next;
-        fast= fast->next->next;
-    }
-
-    ListNode* b = slow->next;
-    slow->next = NULL;
-    ListNode* a = head;
-    a = sortList(a);
-    b = sortList(b);
-    ListNode* c = merge(a,b);
-    // cout<<"merge list == ";
-    //  ListNode* l = c;
-    // while(l!=NULL){
-    //     cout<<l->val<<" ";
-    //     l = l->next;
-    // }
-    // cout<<endl;
-    return c;
+    if(a==NULL)temp->next = b;
+    else temp->next = a;
+    return x->next;
 }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode* x = new ListNode(-1);
-        ListNode* curr = x;
-        for(int i = 0;i<lists.size();i++){
-           curr->next  = &lists[i][0];
-           while(curr->next!=NULL){
-              curr = curr->next;
-           }
+        if(lists.size()==0)return NULL;
+        if(lists.size()==1)return &lists[0][0];
+
+         ListNode* a = &lists[0][0];
+         ListNode* b = &lists[1][0];
+         ListNode* c = merge(a,b);
+        for(int i = 2;i<lists.size();i++){
+           c = merge(&lists[i][0],c);
         }
-        ListNode* temp = x->next;
-        if(temp==NULL || temp->next==NULL)return temp;
-        return sortList(temp);
+        return c;
     }
 };
