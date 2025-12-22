@@ -18,13 +18,6 @@ void dfs(vector<vector<int>>&v,vector<bool>&vis,int node){
         for(int i = 0;i<n;i++){
             if(reach[i]==0)ans.push_back(i);
         }
-        for(int i = 0;i<ans.size();i++){
-                dfs(v,vis,ans[i]);
-        }
-        
-        for(int i = 0;i<n;i++){
-            if(!vis[i])ans.push_back(i);
-        }
         return ans;
     }
 };
