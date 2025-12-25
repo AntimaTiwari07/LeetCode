@@ -1182,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AntimaTiwari07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/AntimaTiwari07/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/AntimaTiwari07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1375,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AntimaTiwari07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/AntimaTiwari07/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/AntimaTiwari07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -1424,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/AntimaTiwari07/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/AntimaTiwari07/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/AntimaTiwari07/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/AntimaTiwari07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/AntimaTiwari07/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AntimaTiwari07/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -1561,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AntimaTiwari07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AntimaTiwari07/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/AntimaTiwari07/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AntimaTiwari07/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
