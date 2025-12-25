@@ -1,25 +1,25 @@
 class Solution {
 public:
+// 1-green color ,0 - yellow color 
+bool dfs(int node,vector<vector<int>>& graph,vector<int>&color){
+    int x = true;
+   for(auto i:graph[node]){
+    if(color[i]==-1){
+        color[i]=!color[node];
+        x = x && dfs(i,graph,color);
+    }
+    else if(color[i]==color[node])return false;
+   }
+   return x;
+}
     bool isBipartite(vector<vector<int>>& graph) {
-      queue<pair<int,char>>q;
-      vector<char>vis(graph.size(),'n');
-      for(int i = 0;i<graph.size();i++){
-        if(vis[i]=='n'&& graph[i].size()>0){
-            q.push({i,'g'});
-      while(!q.empty()){
-       pair<int,char>p = q.front();
-       vis[p.first]=p.second;
-       q.pop();
-       for(auto i:graph[p.first]){
-         if(vis[i]=='n'){
-            if(p.second=='g')
-            q.push({i,'y'});
-            else q.push({i,'g'});
-         }else if(vis[i]==p.second) return false;
-       }
-      } 
+        vector<int>color(graph.size(),-1);
+        for(int i = 0;i<graph.size();i++){
+            if(color[i]==-1){
+                color[i]=0;
+                if(dfs(i,graph,color)==false)return false;
+            }
         }
-      }
-      return true; 
+        return true;
     }
 };
