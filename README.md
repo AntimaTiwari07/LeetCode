@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/AntimaTiwari07/LeetCode/tree/master/0979-di-string-match) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AntimaTiwari07/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1143-longest-common-subsequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
