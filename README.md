@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AntimaTiwari07/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2386-min-max-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/2386-min-max-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-shifting-letters-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/AntimaTiwari07/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AntimaTiwari07/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AntimaTiwari07/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/AntimaTiwari07/LeetCode/tree/master/2509-minimize-xor) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/AntimaTiwari07/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AntimaTiwari07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2551-apply-operations-to-an-array) |
