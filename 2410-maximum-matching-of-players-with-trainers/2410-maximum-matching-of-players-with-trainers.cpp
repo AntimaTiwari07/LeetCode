@@ -2,8 +2,8 @@ class Solution {
 public:
     int matchPlayersAndTrainers(vector<int>& players, vector<int>& trainers) {
        int cnt = 0;
-       sort(players.rbegin(),players.rend());
-       sort(trainers.rbegin(),trainers.rend());
+       sort(players.begin(),players.end());
+       sort(trainers.begin(),trainers.end());
        int i = 0;
        int j = 0;
        while(i<players.size()&& j<trainers.size()){
@@ -13,7 +13,7 @@ public:
             cnt+=1;
         }
         else{
-            i++;
+            j++;
         }
        }
        return cnt;
