@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AntimaTiwari07/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AntimaTiwari07/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AntimaTiwari07/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/AntimaTiwari07/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AntimaTiwari07/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AntimaTiwari07/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/AntimaTiwari07/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AntimaTiwari07/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/AntimaTiwari07/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
