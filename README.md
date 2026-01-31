@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AntimaTiwari07/LeetCode/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/AntimaTiwari07/LeetCode/tree/master/0670-maximum-swap) |
+| [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0778-reorganize-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -1239,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AntimaTiwari07/LeetCode/tree/master/0733-flood-fill) |
+| [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/AntimaTiwari07/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/AntimaTiwari07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1440,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AntimaTiwari07/LeetCode/tree/master/0733-flood-fill) |
+| [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/AntimaTiwari07/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/AntimaTiwari07/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1664,5 +1667,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
