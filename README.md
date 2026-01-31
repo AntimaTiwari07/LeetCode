@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AntimaTiwari07/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/AntimaTiwari07/LeetCode/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0792-binary-search) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AntimaTiwari07/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/AntimaTiwari07/LeetCode/tree/master/0853-most-profit-assigning-work) |
