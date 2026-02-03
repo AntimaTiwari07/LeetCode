@@ -12,13 +12,11 @@ public:
                 if(nums[k]==nums[k+1])return false;
                 else if(nums[k]<nums[k+1])break;
             }
-            cout<<k<<endl;
             if(k==nums.size()-1 || j==k)return false;
             int l =-1 ;
             for(l = k;l<nums.size()-1;l++){
                 if(nums[l]>=nums[l+1])return false;
             }
-            cout<<l<<endl;
            return true;
     }
 };
