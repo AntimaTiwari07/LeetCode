@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/AntimaTiwari07/LeetCode/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/AntimaTiwari07/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0778-reorganize-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/AntimaTiwari07/LeetCode/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/AntimaTiwari07/LeetCode/tree/master/0878-shifting-letters) |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AntimaTiwari07/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/AntimaTiwari07/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AntimaTiwari07/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-most-profit-assigning-work](https://github.com/AntimaTiwari07/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0868-push-dominoes](https://github.com/AntimaTiwari07/LeetCode/tree/master/0868-push-dominoes) |
