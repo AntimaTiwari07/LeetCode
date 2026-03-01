@@ -1,56 +1,57 @@
-
 struct Node{
-        Node* links[26];
-        bool flag = false;
-        bool containkey(char ch){
-           return (links[ch-'a']!=NULL);
-        }
-        void put(char ch,Node* node){
-            links[ch-'a']=node;
-        }
-        Node* get(char ch){
-            return links[ch-'a'];
-        }
-        void   setend(){
-            flag = true;
-        }
-        bool end(){return flag;}
-    };
-    class Trie {
-
-private:
+    Node* links[26] = {nullptr};
+    bool flag = false;
+    bool containkey(char ch){
+        if(links[ch-'a']==NULL)return false;
+        else return true;
+    }
+    void putkey(char ch,Node* node){
+        links[ch-'a'] = node;
+    }
+    Node* getnext(char ch){
+        return links[ch-'a'];
+    }
+    void setend(){
+        flag = true;
+    }
+    bool isend(){
+        return flag;
+    }
+};
+class Trie {
+    private:
     Node* root;
-    public:
+public:
     Trie() {
        root = new Node(); 
     }
+    
     void insert(string word) {
         Node* node = root;
         for(int i = 0;i<word.size();i++){
-             if(!node->containkey(word[i])){
-                node->put(word[i],new Node());
-             }
-             //reffernce to next node
-             node = node->get(word[i]);
+            if(!node->containkey(word[i])){
+                node->putkey(word[i],new Node());
+            }
+            node = node->getnext(word[i]);
         }
-        node->setend(); 
+        node->setend();
     }
     
     bool search(string word) {
         Node* node = root;
-        for(int i = 0;i<word.size();i++)
-        {
+        for(int i = 0;i<word.size();i++){
             if(!node->containkey(word[i]))return false;
-            node = node->get(word[i]);
+            node = node->getnext(word[i]);
         }
-        return node->end();
+        if(node->isend()==true)return true;
+        else return false;
     }
     
     bool startsWith(string prefix) {
         Node* node = root;
-        for(int i =0;i<prefix.size();i++){
-            if(!node->containkey(prefix[i]))return false;
-            node = node->get(prefix[i]);
+        for(int i = 0;i<prefix.size();i++){
+             if(!node->containkey(prefix[i]))return false;
+            node = node->getnext(prefix[i]);
         }
         return true;
     }
