@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AntimaTiwari07/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0292-nim-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AntimaTiwari07/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AntimaTiwari07/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AntimaTiwari07/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AntimaTiwari07/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
