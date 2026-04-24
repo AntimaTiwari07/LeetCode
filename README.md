@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/AntimaTiwari07/LeetCode/tree/master/2615-sum-of-distances) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/2634-minimum-common-value) |
 | [2636-maximum-subsequence-score](https://github.com/AntimaTiwari07/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2615-sum-of-distances](https://github.com/AntimaTiwari07/LeetCode/tree/master/2615-sum-of-distances) |
 | [2634-minimum-common-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2615-sum-of-distances](https://github.com/AntimaTiwari07/LeetCode/tree/master/2615-sum-of-distances) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AntimaTiwari07/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
