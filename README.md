@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AntimaTiwari07/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AntimaTiwari07/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AntimaTiwari07/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/AntimaTiwari07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
