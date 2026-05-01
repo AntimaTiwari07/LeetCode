@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-minimum-time-to-break-locks-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AntimaTiwari07/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AntimaTiwari07/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3790-fruits-into-baskets-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AntimaTiwari07/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1135,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
