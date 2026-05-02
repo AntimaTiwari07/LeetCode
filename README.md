@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AntimaTiwari07/LeetCode/tree/master/0670-maximum-swap) |
+| [0788-rotated-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AntimaTiwari07/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/AntimaTiwari07/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1115,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0518-coin-change-ii) |
+| [0788-rotated-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/0788-rotated-digits) |
 | [0868-push-dominoes](https://github.com/AntimaTiwari07/LeetCode/tree/master/0868-push-dominoes) |
 | [0967-minimum-falling-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1013-fibonacci-number) |
