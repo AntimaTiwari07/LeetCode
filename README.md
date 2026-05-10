@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AntimaTiwari07/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AntimaTiwari07/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/AntimaTiwari07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AntimaTiwari07/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
