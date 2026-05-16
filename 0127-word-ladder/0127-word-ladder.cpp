@@ -11,8 +11,7 @@ public:
         string st = q.front();
         q.pop();
         if(st==endWord){
-            exist = true;
-            break;
+           return cnt+1;
         }
         if(st=="0"){
             cnt+=1;
@@ -27,8 +26,8 @@ public:
        }
    
      }
-    if(!exist)return 0;
-     return cnt+1;
+    
+     return 0;
   }
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         unordered_map<string,vector<string>>v;
