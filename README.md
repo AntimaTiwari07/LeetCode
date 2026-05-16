@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AntimaTiwari07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/AntimaTiwari07/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AntimaTiwari07/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AntimaTiwari07/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AntimaTiwari07/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AntimaTiwari07/LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/AntimaTiwari07/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AntimaTiwari07/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AntimaTiwari07/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -1496,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AntimaTiwari07/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/AntimaTiwari07/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AntimaTiwari07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/AntimaTiwari07/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0200-number-of-islands) |
