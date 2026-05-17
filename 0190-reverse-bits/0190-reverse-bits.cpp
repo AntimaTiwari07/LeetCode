@@ -1,36 +1,29 @@
 class Solution {
 public:
-string tobinary(int n){
-    string s = "";
-    while(n>0){
-        s+=(char)(n%2)+'0';
-        n = n/2;
-    }
-    return s;
-}
-int tonum(string x){
-    int num = 0;
-    long long temp = 1;
-    for(int i = 31;i>=0;i--){
-       num+=(temp)*(int)(x[i]-'0');
-       temp*=2;
-    }
-    return num;
-}
     int reverseBits(int n) {
-        string x = tobinary(n);
-        reverse(x.begin(),x.end());
-        if(x.size()<32){
-            int diff = 32-x.size();
-            string zero = string(diff,'0');
-            x = zero+x;
+        string s = "";
+        while (n != 0) {
+            int rem = n % 2;
+            s += to_string(rem);
+            n /= 2;
         }
-       
-        for(int i = 0;i<x.size()/2;i++){
-            swap(x[i],x[x.size()-1-i]);
+        reverse(s.begin(), s.end());
+        cout<<s.size()<<endl;
+        if (s.size() <= 32) {
+            int x = 32 - s.size();
+            string zero = string(x,'0');
+            s = zero + s;
         }
-      
-        return tonum(x);
+        reverse(s.begin(),s.end());
+        long long st = 1;
+        int ans = 0;
+        cout << s.size() << endl;
+        for (int i = s.size() - 1; i >= 0; i--) {
+            if (s[i] == '1') {
+                ans += st;
+            }
+            st = st * 2;
+        }
+        return ans;
     }
-    
 };
