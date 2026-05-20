@@ -4,21 +4,21 @@ public:
         int st = 0;
         int end = nums.size()-1;
         int mid;
-        int idx = 0;
+        int mini = INT_MAX;
         while(st<=end){
-            while( st<end && nums[st]==nums[st+1]) st+=1;
-            while(end>st && nums[end]==nums[end-1])end--;
+            while(st+1<nums.size() && nums[st]==nums[st+1])st+=1;
+            while(end-1>=0 && nums[end]==nums[end-1])end-=1;
             mid = st+(end-st)/2;
-          if(nums[mid]<nums[idx]){
-            idx = mid;
-          }
-          if(nums[mid]>nums[end]){
-            st = mid+1;
-          }
-          else{
-            end = mid-1;
-          }
+            if(nums[mid]<mini){
+                mini = nums[mid];
+            }
+            if(nums[mid]<nums[end]){
+                end = mid-1;
+            }
+            else{
+                st = mid+1;
+            }
         }
-       return  nums[idx];
+        return mini;
     }
 };
