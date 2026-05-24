@@ -22,14 +22,6 @@ public:
                 mp[i].push_back(j);
         }
        }
-       for(auto i:mp){
-        vector<int>v = i.second;
-        cout<<i.first<<"   ";
-        for(int j = 0;j<v.size();j++){
-            cout<<v[j]<<" ";
-        }
-        cout<<endl;
-       }
        int maxi = INT_MIN;
        vector<int>dp(arr.size(),-1);
      for(int i = 0;i<arr.size();i++){
