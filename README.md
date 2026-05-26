@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AntimaTiwari07/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AntimaTiwari07/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AntimaTiwari07/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AntimaTiwari07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AntimaTiwari07/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/0202-happy-number) |
@@ -1581,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AntimaTiwari07/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/AntimaTiwari07/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AntimaTiwari07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -1621,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AntimaTiwari07/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AntimaTiwari07/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1782,4 +1785,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AntimaTiwari07/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
