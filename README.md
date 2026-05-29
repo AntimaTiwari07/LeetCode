@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
