@@ -1,30 +1,28 @@
 class Solution {
 public:
-    int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
-        int mini = INT_MAX;
-        int time = 0;
-        for(int i = 0;i<landStartTime.size();i++){
-            time = landStartTime[i]+landDuration[i];
-            for(int j = 0;j<waterStartTime.size();j++){
-                if(time>=waterStartTime[j]){
-                    mini = min(mini,time+waterDuration[j]);
-                }
-                else if(time<waterStartTime[j]){
-                    mini = min(mini,waterStartTime[j]+waterDuration[j]);
-                }
-            }
+    int earliestFinishTime(vector<int>& l, vector<int>& ld, vector<int>& w, vector<int>& wd) {
+        int minw = INT_MAX;
+        int minl = INT_MAX;
+        for(int i = 0;i<l.size();i++){
+            minl = min(minl,l[i]+ld[i]);
         }
-                for(int i = 0;i<waterStartTime.size();i++){
-            time = waterStartTime[i]+waterDuration[i];
-            for(int j = 0;j<landStartTime.size();j++){
-                if(time>=landStartTime[j]){
-                    mini = min(mini,time+landDuration[j]);
-                }
-                else if(time<landStartTime[j]){
-                    mini = min(mini,landStartTime[j]+landDuration[j]);
-                }
-            }
+        for(int i = 0;i<w.size();i++){
+            minw = min(minw,w[i]+wd[i]);
         }
-        return mini;
+        int ans = INT_MAX;
+            for(int i = 0;i<w.size();i++){
+                if(minl>=w[i]){
+                    ans = min(ans,minl+wd[i]);
+                }
+                else ans = min(ans,w[i]+wd[i]);
+            }
+             for(int i = 0;i<l.size();i++){
+                if(minw>=l[i]){
+                    ans = min(ans,minw+ld[i]);
+                }
+                else ans = min(ans,l[i]+ld[i]);
+            }
+        
+        return ans;
     }
 };
