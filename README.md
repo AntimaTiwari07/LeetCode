@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AntimaTiwari07/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/AntimaTiwari07/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting
 |  |
 | ------- |
@@ -976,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
@@ -1114,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AntimaTiwari07/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
