@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/AntimaTiwari07/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/AntimaTiwari07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AntimaTiwari07/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1307,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/AntimaTiwari07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/AntimaTiwari07/LeetCode/tree/master/2615-sum-of-distances) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AntimaTiwari07/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
