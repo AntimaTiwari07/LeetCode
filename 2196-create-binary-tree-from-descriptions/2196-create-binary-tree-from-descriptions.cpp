@@ -34,7 +34,6 @@ public:
                 mp[child] = mp[parent]->right;
                 }
             else mp[parent]->right = mp[child];}
-            cout<<mp[parent]<<" "<<mp[child]<<endl;
         }
         for(int i = 0;i<descriptions.size();i++){
             temp[descriptions[i][1]] = 1;
