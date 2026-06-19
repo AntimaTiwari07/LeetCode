@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AntimaTiwari07/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AntimaTiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/AntimaTiwari07/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AntimaTiwari07/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/AntimaTiwari07/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/AntimaTiwari07/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/AntimaTiwari07/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1871-jump-game-vii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AntimaTiwari07/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
