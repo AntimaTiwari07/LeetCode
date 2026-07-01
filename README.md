@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AntimaTiwari07/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AntimaTiwari07/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AntimaTiwari07/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/AntimaTiwari07/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AntimaTiwari07/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1502,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/AntimaTiwari07/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AntimaTiwari07/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1636,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AntimaTiwari07/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
 |  |
@@ -1869,6 +1874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Doubly-Linked List
 |  |
 | ------- |
