@@ -1423,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/AntimaTiwari07/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AntimaTiwari07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
@@ -1646,6 +1647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/AntimaTiwari07/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AntimaTiwari07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1879,12 +1881,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AntimaTiwari07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AntimaTiwari07/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AntimaTiwari07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Doubly-Linked List
 |  |
