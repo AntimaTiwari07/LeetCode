@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/AntimaTiwari07/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/AntimaTiwari07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AntimaTiwari07/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AntimaTiwari07/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AntimaTiwari07/LeetCode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/AntimaTiwari07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1972-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1972-rotating-the-box) |
@@ -1240,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/AntimaTiwari07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/AntimaTiwari07/LeetCode/tree/master/1340-jump-game-v) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AntimaTiwari07/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
