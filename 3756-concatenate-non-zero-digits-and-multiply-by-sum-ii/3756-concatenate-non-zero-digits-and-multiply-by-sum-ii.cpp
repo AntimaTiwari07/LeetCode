@@ -1,39 +1,45 @@
-const int MOD = 1e9 + 7;
-const int MAX_N = 100001;
-long long pow10[MAX_N];
-
-// init runs only once for all test cases
-int init = []() {
-    pow10[0] = 1;
-    for (int i = 1; i < MAX_N; ++i) {
-        pow10[i] = (pow10[i - 1] * 10) % MOD;
-    }
-    return 0;
-}();
-
 class Solution {
 public:
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
-        int n = s.size();
-        vector<int> sum(n + 1, 0);
-        vector<long long> x(n + 1, 0);
-        vector<int> cnt(n + 1, 0);
-        for (int i = 0; i < n; ++i) {
-            int d = s[i] - '0';
-            sum[i + 1] = sum[i] + d;
-            x[i + 1] = (d > 0) ? (x[i] * 10 + d) % MOD : x[i];
-            cnt[i + 1] = cnt[i] + (d > 0);
+        vector<int>ans;
+        vector<long long>sum(s.size(),0);
+        vector<long long>v(s.size());
+        const long long MOD = 1000000007;
+        vector<long long>power(s.size()+1,0);
+        power[0] = 1;
+        for(int i = 1;i<s.size()+1;i++){
+            power[i] = (power[i-1]*10)%MOD;
         }
-        int m = queries.size();
-        vector<int> res(m, 0);
-        for (int i = 0; i < m; ++i) {
-            int l = queries[i][0];
-            int r = queries[i][1] + 1;
-            int length = cnt[r] - cnt[l];
-            long long val_x = (x[r] - x[l] * pow10[length] % MOD + MOD) % MOD;
-            long long val_sum = sum[r] - sum[l];
-            res[i] = (val_x * val_sum) % MOD;
+        vector<int>dig(s.size(),0);
+        int digit = 0;
+        long long cnt = 0;
+        long long str = 0;
+        for(int i = 0;i<s.size();i++){
+            if(s[i]!='0'){
+                str= (str*10+ (s[i]-'0'))%MOD;
+                digit++;
+            }
+            cnt+=(s[i]-'0');
+            sum[i] = cnt;
+            v[i] = str;
+            dig[i]=digit;
         }
-        return res;
+
+        long long summ = 0;
+        for(int i = 0;i<queries.size();i++){
+           if(queries[i][0]-1>=0){
+            summ = sum[queries[i][1]]-sum[queries[i][0]-1];
+            int k = dig[queries[i][1]]-dig[queries[i][0]-1];
+           long long val = (v[queries[i][1]]-(v[queries[i][0]-1]*power[k])%MOD+ MOD)%MOD;
+           long long res = ((val) * (summ % MOD)) % MOD;
+           ans.push_back(res);
+           }else{ summ= sum[queries[i][1]];
+            long long val = v[queries[i][1]];
+            long long res = ((val % MOD) * (summ % MOD)) % MOD;
+        //    int result = res%1000000007;
+           ans.push_back(res);
+           }    
+        }
+        return ans;
     }
 };
