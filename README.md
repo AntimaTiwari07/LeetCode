@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AntimaTiwari07/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AntimaTiwari07/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AntimaTiwari07/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1892,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AntimaTiwari07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/AntimaTiwari07/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
@@ -1899,6 +1903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/AntimaTiwari07/LeetCode/tree/master/0765-couples-holding-hands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AntimaTiwari07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
