@@ -25,20 +25,15 @@ class DSU{
 class Solution {
 public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        priority_queue<pair<int,int>>pq;
-        for(int i = 0;i<nums.size();i++){
-            pq.push({nums[i],i});
-        }
+       vector<pair<int,int>> v;
+
+for(int i=0;i<n;i++)
+    v.push_back({nums[i],i});
         DSU dsu(n);
-        pair<int,int>temp = pq.top();
-        while(!pq.empty()){
-            pair<int,int>curr = pq.top();
-            pq.pop();
-            if(abs(temp.first-curr.first)<=maxDiff){
-                dsu.merge(temp.second,curr.second);
-            }
-            temp = curr;
-        }
+        for(int i=1;i<n;i++){
+    if(v[i].first-v[i-1].first<=maxDiff)
+        dsu.merge(v[i].second,v[i-1].second);
+}
         vector<bool>ans(queries.size(),false);
         for(int i = 0;i<queries.size();i++){
             if(dsu.find(queries[i][0])==dsu.find(queries[i][1]))ans[i] = true;      
