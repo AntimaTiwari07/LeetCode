@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AntimaTiwari07/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3606-coupon-code-validator](https://github.com/AntimaTiwari07/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-network-recovery-pathways](https://github.com/AntimaTiwari07/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AntimaTiwari07/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3606-coupon-code-validator](https://github.com/AntimaTiwari07/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AntimaTiwari07/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3606-coupon-code-validator](https://github.com/AntimaTiwari07/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
+| [3606-coupon-code-validator](https://github.com/AntimaTiwari07/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
