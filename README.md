@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AntimaTiwari07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AntimaTiwari07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AntimaTiwari07/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1047,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AntimaTiwari07/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1065,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/AntimaTiwari07/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AntimaTiwari07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AntimaTiwari07/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1396,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/AntimaTiwari07/LeetCode/tree/master/2615-sum-of-distances) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AntimaTiwari07/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -1617,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AntimaTiwari07/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AntimaTiwari07/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
