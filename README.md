@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/AntimaTiwari07/LeetCode/tree/master/0952-word-subsets) |
+| [0962-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/AntimaTiwari07/LeetCode/tree/master/0979-di-string-match) |
@@ -1179,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/AntimaTiwari07/LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/AntimaTiwari07/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0962-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0979-di-string-match](https://github.com/AntimaTiwari07/LeetCode/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/AntimaTiwari07/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1341,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/AntimaTiwari07/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/AntimaTiwari07/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AntimaTiwari07/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0983-validate-stack-sequences](https://github.com/AntimaTiwari07/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1365,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/AntimaTiwari07/LeetCode/tree/master/0937-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1002-maximum-width-ramp](https://github.com/AntimaTiwari07/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AntimaTiwari07/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
