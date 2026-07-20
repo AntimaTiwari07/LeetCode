@@ -10,12 +10,10 @@ public:
         vector<vector<int>>ans(grid.size(),vector<int>(grid[0].size()));
         int x = (grid[0].size()*grid.size());
         int rem = k%x;
-        cout<<rem<<endl;
         int t = x-rem;
         int i = 0;
         int j = 0;
         int cnt = 0;
-        cout<<t<<endl;
         while(cnt<rem){
           if(j==grid[0].size()){
             j = 0;
