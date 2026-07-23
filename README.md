@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
