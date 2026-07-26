@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AntimaTiwari07/LeetCode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0593-valid-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/0593-valid-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/AntimaTiwari07/LeetCode/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AntimaTiwari07/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AntimaTiwari07/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AntimaTiwari07/LeetCode/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AntimaTiwari07/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/0778-reorganize-string) |
