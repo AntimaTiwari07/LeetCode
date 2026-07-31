@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AntimaTiwari07/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2902-max-pair-sum-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AntimaTiwari07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AntimaTiwari07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AntimaTiwari07/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AntimaTiwari07/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AntimaTiwari07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AntimaTiwari07/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AntimaTiwari07/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/AntimaTiwari07/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -1018,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/AntimaTiwari07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
