@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/AntimaTiwari07/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AntimaTiwari07/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AntimaTiwari07/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1349,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
