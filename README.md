@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AntimaTiwari07/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/AntimaTiwari07/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0877-stone-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0877-stone-game) |
 | [0878-shifting-letters](https://github.com/AntimaTiwari07/LeetCode/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/AntimaTiwari07/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/AntimaTiwari07/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AntimaTiwari07/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/AntimaTiwari07/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/AntimaTiwari07/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1314,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/0518-coin-change-ii) |
 | [0788-rotated-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/0788-rotated-digits) |
 | [0868-push-dominoes](https://github.com/AntimaTiwari07/LeetCode/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0877-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/AntimaTiwari07/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
@@ -1350,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
