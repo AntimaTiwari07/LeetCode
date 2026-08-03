@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/AntimaTiwari07/LeetCode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/AntimaTiwari07/LeetCode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AntimaTiwari07/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1428-jump-game-iii) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 | [1390-four-divisors](https://github.com/AntimaTiwari07/LeetCode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AntimaTiwari07/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/AntimaTiwari07/LeetCode/tree/master/1500-count-largest-group) |
@@ -1327,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/AntimaTiwari07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/AntimaTiwari07/LeetCode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AntimaTiwari07/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AntimaTiwari07/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1355,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
+| [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
@@ -2012,4 +2016,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AntimaTiwari07/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
