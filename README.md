@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AntimaTiwari07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/AntimaTiwari07/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3396-valid-word](https://github.com/AntimaTiwari07/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3451-string-compression-iii) |
@@ -1121,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AntimaTiwari07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AntimaTiwari07/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1150,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntimaTiwari07/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Recursion
 |  |
