@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/AntimaTiwari07/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1206-corporate-flight-bookings](https://github.com/AntimaTiwari07/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/AntimaTiwari07/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/AntimaTiwari07/LeetCode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1336,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AntimaTiwari07/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -1371,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AntimaTiwari07/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -1455,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/AntimaTiwari07/LeetCode/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1206-corporate-flight-bookings](https://github.com/AntimaTiwari07/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -2036,9 +2041,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
