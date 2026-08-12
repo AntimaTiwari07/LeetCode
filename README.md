@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AntimaTiwari07/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AntimaTiwari07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2902-max-pair-sum-in-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AntimaTiwari07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1592,6 +1594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/AntimaTiwari07/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AntimaTiwari07/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AntimaTiwari07/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AntimaTiwari07/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
