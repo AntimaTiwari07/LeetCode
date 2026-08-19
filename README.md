@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/AntimaTiwari07/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/AntimaTiwari07/LeetCode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AntimaTiwari07/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1386-cinema-seat-allocation](https://github.com/AntimaTiwari07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/AntimaTiwari07/LeetCode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AntimaTiwari07/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/AntimaTiwari07/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AntimaTiwari07/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/AntimaTiwari07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AntimaTiwari07/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/AntimaTiwari07/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AntimaTiwari07/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/AntimaTiwari07/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/AntimaTiwari07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AntimaTiwari07/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AntimaTiwari07/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AntimaTiwari07/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AntimaTiwari07/LeetCode/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/AntimaTiwari07/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1386-cinema-seat-allocation](https://github.com/AntimaTiwari07/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AntimaTiwari07/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/AntimaTiwari07/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AntimaTiwari07/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
