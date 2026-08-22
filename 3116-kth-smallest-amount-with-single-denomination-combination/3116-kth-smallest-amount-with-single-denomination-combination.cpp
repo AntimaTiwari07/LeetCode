@@ -1,64 +1,46 @@
 class Solution {
 public:
-    using ll = long long;
+long long position(long long n,vector<int>&coins){
+    long long duplicate = 0;
+    for(int x = 1;x<=(1<<coins.size())-1;x++){
+        long long cnt = 0;
+        long long llm = 0;
+        for(int j =0;j<coins.size();j++){
+            if(x&(1<<j)){
+                cnt+=1;
+                if(llm ==0){
+                    llm= coins[j];
+                }
+                else{
+                    llm = (llm*coins[j])/gcd(llm,coins[j]);
+                }
+            }
+        }
+        if(cnt%2==0){
+            duplicate-=(n/llm);
+        }
+        else duplicate+=(n/llm);
+    }
+    return duplicate;
+}
     long long findKthSmallest(vector<int>& coins, int k) {
-        sort(coins.begin(), coins.end());
-        vector<int> new_coins;
-        for (int x : coins) {
-            bool flag = true;
-            for (int y : new_coins) {
-                if (x % y == 0) {
-                    flag = false;
-                    break;
-                }
-            }
-            if (flag) {
-                new_coins.push_back(x);
-            }
+        sort(coins.begin(),coins.end());
+       long long st = coins[0];
+       long long end = (long long)coins.back()*k;
+       long long mid;
+       long long ans ;
+       while(st<=end){
+        mid = st+(end-st)/2;
+        long long p = position(mid,coins);
+        if(p>=k){
+            cout<<p<<" "<<mid<<endl;
+            ans = mid;
+            end = mid-1;
         }
-        coins = new_coins;
-
-        int n = coins.size();
-        int m = (1 << n);
-        vector<int> bit_count(m);
-        vector<ll> lcm(m, 1);
-        ll l = k, r = 1ll * coins[0] * k + 1;
-
-        for (int mask = 1; mask < m; mask++) {
-            int pre_mask = mask & (mask - 1);
-            int i = __builtin_ctz(mask);
-
-            ll tmp = lcm[pre_mask] / gcd(lcm[pre_mask], coins[i]);
-            if (tmp <= r / coins[i]) {
-                lcm[mask] = tmp * coins[i];
-            } else {
-                lcm[mask] = r + 1;
-            }
+        else{
+            st = mid+1;
         }
-
-        auto get = [&](ll x) -> ll {
-            ll count = 0;
-            for (int mask = 1; mask < m; mask++) {
-                if (lcm[mask] > x) {
-                    continue;
-                }
-                if (__builtin_popcount(mask) & 1) {
-                    count += x / lcm[mask];
-                } else {
-                    count -= x / lcm[mask];
-                }
-            }
-            return count;
-        };
-
-        while (l < r) {
-            ll x = (l + r) >> 1;
-            if (get(x) >= k) {
-                r = x;
-            } else {
-                l = x + 1;
-            }
-        }
-        return l;
+       } 
+       return ans;
     }
 };
