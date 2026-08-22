@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/AntimaTiwari07/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1086-divisor-game) |
 | [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
+| [1201-ugly-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1201-ugly-number-iii) |
 | [1390-four-divisors](https://github.com/AntimaTiwari07/LeetCode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/AntimaTiwari07/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/AntimaTiwari07/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AntimaTiwari07/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1201-ugly-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1201-ugly-number-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AntimaTiwari07/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AntimaTiwari07/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AntimaTiwari07/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -1148,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AntimaTiwari07/LeetCode/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/AntimaTiwari07/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1201-ugly-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/AntimaTiwari07/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -1735,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AntimaTiwari07/LeetCode/tree/master/0062-unique-paths) |
+| [1201-ugly-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1201-ugly-number-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AntimaTiwari07/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AntimaTiwari07/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -2097,4 +2101,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AntimaTiwari07/LeetCode/tree/master/1510-stone-game-iv) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
