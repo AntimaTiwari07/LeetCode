@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AntimaTiwari07/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AntimaTiwari07/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1861-rotating-the-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AntimaTiwari07/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/AntimaTiwari07/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AntimaTiwari07/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AntimaTiwari07/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AntimaTiwari07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1385,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AntimaTiwari07/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AntimaTiwari07/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1872-stone-game-viii) |
 | [2164-two-best-non-overlapping-events](https://github.com/AntimaTiwari07/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/AntimaTiwari07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/AntimaTiwari07/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -1411,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AntimaTiwari07/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AntimaTiwari07/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AntimaTiwari07/LeetCode/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/AntimaTiwari07/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -1501,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AntimaTiwari07/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/AntimaTiwari07/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1872-stone-game-viii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AntimaTiwari07/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AntimaTiwari07/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/AntimaTiwari07/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -2084,6 +2089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AntimaTiwari07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AntimaTiwari07/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -2091,6 +2097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AntimaTiwari07/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AntimaTiwari07/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
