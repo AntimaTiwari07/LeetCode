@@ -15,7 +15,7 @@ public:
             // cout<<"st = "<<st<<endl;
             string str=st;
             int cnt = cntt;
-            cout<<"st = "<<st<<endl;
+            // cout<<"st = "<<st<<endl;
             for(int j = i+1;j<s.size();j++){
                 if(cnt==k){
                         ans = min(ans,str);
