@@ -2,13 +2,11 @@ class Solution {
 public:
     int minMoves2(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        int cnt = 0;
-        int target = nums[nums.size()/2];
+        int midele = nums[nums.size()/2];
+        int count = 0;
         for(int i = 0;i<nums.size();i++){
-            if(nums[i]!=target){
-                cnt = cnt+ abs(nums[i]-target);
-            }
+            count+=abs(nums[i]-midele);
         }
-        return cnt;
+        return count;
     }
 };
