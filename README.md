@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AntimaTiwari07/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AntimaTiwari07/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2262-solving-questions-with-brainpower](https://github.com/AntimaTiwari07/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AntimaTiwari07/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AntimaTiwari07/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/AntimaTiwari07/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AntimaTiwari07/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AntimaTiwari07/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AntimaTiwari07/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AntimaTiwari07/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AntimaTiwari07/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/AntimaTiwari07/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -1649,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/AntimaTiwari07/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1871-jump-game-vii](https://github.com/AntimaTiwari07/LeetCode/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AntimaTiwari07/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AntimaTiwari07/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AntimaTiwari07/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2478-longest-nice-subarray](https://github.com/AntimaTiwari07/LeetCode/tree/master/2478-longest-nice-subarray) |
