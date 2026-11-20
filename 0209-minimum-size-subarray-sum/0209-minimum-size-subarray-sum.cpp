@@ -7,7 +7,7 @@ public:
         int sum = 0;
         while(j<nums.size()){
          sum+=nums[j];
-         cout<<sum<<endl;
+         
            while(sum>=target){
             ans = min(ans,j-i+1);
             sum-=nums[i];
