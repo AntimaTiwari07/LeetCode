@@ -7,12 +7,12 @@ public:
         int ans = 0;
         while(j<s.size()){
             mp[s[j]]++;
-            ans = max(ans,(int)mp.size());
+            
             while(mp[s[j]]>1){
                 mp[s[i]]--;
-                if(mp[s[i]]==0)mp.erase(s[i]);
                 i++;
             }
+            ans = max(ans,j-i+1);
             j++;
         }
         return ans;
