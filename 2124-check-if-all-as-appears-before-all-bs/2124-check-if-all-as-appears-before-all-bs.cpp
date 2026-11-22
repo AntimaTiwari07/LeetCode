@@ -1,13 +1,17 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int a = -1;
-        int b = INT_MAX;
+        int idx = -1;
         for(int i = 0;i<s.size();i++){
-            if(s[i]=='a')a = i;
-            else b = i;
-            if(a>b)return false;
+          if(s[i]=='b'){
+            idx = i;
+            break;
+          }
         }
-        return true;
+        while(idx!=-1 && idx<s.size()){
+            if(s[idx]=='a')return false;
+            idx++;
+        }
+return true;
     }
 };
