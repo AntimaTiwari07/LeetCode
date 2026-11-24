@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AntimaTiwari07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AntimaTiwari07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3427-special-array-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/AntimaTiwari07/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AntimaTiwari07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AntimaTiwari07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3462-vowels-game-in-a-string](https://github.com/AntimaTiwari07/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntimaTiwari07/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AntimaTiwari07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AntimaTiwari07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AntimaTiwari07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/AntimaTiwari07/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AntimaTiwari07/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AntimaTiwari07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1671,6 +1674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AntimaTiwari07/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AntimaTiwari07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1805,6 +1809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AntimaTiwari07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3210-count-beautiful-substrings-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AntimaTiwari07/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AntimaTiwari07/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AntimaTiwari07/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AntimaTiwari07/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
